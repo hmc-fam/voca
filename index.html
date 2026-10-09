@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- 단어장 앱 버전 1.3 (2026-10-09) -->
+<!-- 단어장 앱 버전 1.4 (2026-10-09) -->
 <html lang="ko">
 <head>
 <meta charset="utf-8">
@@ -154,6 +154,7 @@ button.word-row:hover{background:var(--sunk)}
 .judge{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .judge .btn{padding:15px;font-size:17px}
 .judge .only{grid-column:1 / -1}
+.judge-extra{text-align:center;margin-top:6px;min-height:36px}
 .keys{display:none;text-align:center;font-size:13px;color:var(--muted)}
 @media (hover:hover) and (pointer:fine){.keys{display:block}}
 
@@ -371,7 +372,7 @@ const fmtShort = t => { const d = new Date(t); return `${d.getMonth() + 1}/${d.g
 const LEARNED = 3;           // 연속으로 이만큼 알면 '익힘'
 const CFG_KEY = 'vocab-cfg-v1';
 const API = 'https://api.github.com';
-const APP_VERSION = '1.3';
+const APP_VERSION = '1.4';
 const APP_DATE = '2026년 10월 9일';
 
 // ---------- config ----------
@@ -863,14 +864,14 @@ function renderCard() {
     <div class="bar"><span style="width:${q.idx / q.items.length * 100}%"></span></div>
     <div class="deck${left > 1 ? ' has-more' : ''}">
       <div class="ring" aria-hidden="true"></div>
-      <div class="flash" id="flash" role="button" tabindex="0" aria-label="카드 뒤집기">
+      <div class="flash${q.flipped ? ' flipped' : ''}" id="flash" role="button" tabindex="0" aria-label="카드 뒤집기">
         <div class="flash-inner">
-          <div class="face front">
+          <div class="face front" aria-hidden="${q.flipped}">
             <span class="corner">${w2m ? '뜻이 뭘까요?' : '어떤 단어일까요?'}</span>
             <div class="face-body"><div class="${w2m ? 'big' : 'mid'}">${esc(front)}</div></div>
             <span class="tap">탭해서 뒤집기</span>
           </div>
-          <div class="face back" aria-hidden="true">
+          <div class="face back" aria-hidden="${!q.flipped}">
             <span class="corner">${esc(front)}</span>
             <div class="face-body">
               <div class="${w2m ? 'mid' : 'big'}">${esc(back)}</div>
@@ -882,6 +883,7 @@ function renderCard() {
       </div>
     </div>
     <div class="judge" id="judge"></div>
+    <div class="judge-extra" id="judgeExtra"></div>
     <p class="keys">스페이스: 뒤집기, ←: 몰랐어요, →: 알았어요</p>`;
   renderJudge();
   $('#flash').addEventListener('click', flip);
@@ -895,6 +897,9 @@ function renderJudge() {
     : '<button type="button" class="btn primary only" id="qFlip">뒤집기</button>';
   if (q.revealed) { $('#qNo').addEventListener('click', () => answer(false)); $('#qYes').addEventListener('click', () => answer(true)); }
   else $('#qFlip').addEventListener('click', flip);
+  const x = $('#judgeExtra');
+  x.innerHTML = q.revealed && state.canEdit ? '<button type="button" class="link" id="qEdit">이 카드 수정</button>' : '';
+  const qe = $('#qEdit'); if (qe) qe.addEventListener('click', () => openWord(q.items[q.idx].id));
 }
 function flip() {
   const q = state.quiz; if (!q || q.done) return;
