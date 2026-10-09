@@ -4970,6 +4970,66 @@
       "updated": 1791530760112
     }
   ],
-  "stats": {},
-  "sessions": []
+  "stats": {
+    "mv0n5p94q2lp9120": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791530917945
+    },
+    "mv0n5p95877ck386": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791530917945
+    },
+    "mv0n5p952sk33352": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791530917945
+    },
+    "mv0n5p95ckzrc398": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791530917945
+    },
+    "mv0n5p95er8jd183": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791530917945
+    },
+    "mv0n5p95rxqn2239": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "streak": 0,
+      "last": 1791530917945
+    },
+    "mv0n5p95l0ypj302": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "streak": 0,
+      "last": 1791530917945
+    }
+  },
+  "sessions": [
+    {
+      "t": 1791530917945,
+      "n": 7,
+      "c": 5,
+      "tags": [
+        "일본어 N5"
+      ],
+      "dir": "w2m"
+    }
+  ]
 }
