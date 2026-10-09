@@ -4968,6 +4968,1146 @@
       ],
       "created": 1791532070477,
       "updated": 1791532070477
+    },
+    {
+      "id": "mv0ofvb7n5rqv0",
+      "word": "おはようございます",
+      "meaning": "좋은 아침입니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913731,
+      "updated": 1791532913731
+    },
+    {
+      "id": "mv0ofvb72xfms1",
+      "word": "こんにちは",
+      "meaning": "안녕하세요(낮)",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913732,
+      "updated": 1791532913732
+    },
+    {
+      "id": "mv0ofvb8tpxh42",
+      "word": "こんばんは",
+      "meaning": "안녕하세요(저녁)",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913733,
+      "updated": 1791532913733
+    },
+    {
+      "id": "mv0ofvb8el4gv3",
+      "word": "さようなら",
+      "meaning": "안녕히 가세요",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913734,
+      "updated": 1791532913734
+    },
+    {
+      "id": "mv0ofvb8h88a24",
+      "word": "おやすみなさい",
+      "meaning": "안녕히 주무세요",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913735,
+      "updated": 1791532913735
+    },
+    {
+      "id": "mv0ofvb8p2s4j5",
+      "word": "ありがとうございます",
+      "meaning": "감사합니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913736,
+      "updated": 1791532913736
+    },
+    {
+      "id": "mv0ofvb8svk026",
+      "word": "どういたしまして",
+      "meaning": "천만에요",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913737,
+      "updated": 1791532913737
+    },
+    {
+      "id": "mv0ofvb8p9o717",
+      "word": "すみません",
+      "meaning": "죄송합니다/저기요",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913738,
+      "updated": 1791532913738
+    },
+    {
+      "id": "mv0ofvb8lcj2e8",
+      "word": "ごめんなさい",
+      "meaning": "미안합니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913739,
+      "updated": 1791532913739
+    },
+    {
+      "id": "mv0ofvb8omvvq9",
+      "word": "大丈夫です",
+      "meaning": "괜찮습니다",
+      "note": "だいじょうぶです",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913740,
+      "updated": 1791532913740
+    },
+    {
+      "id": "mv0ofvb8b7xjl10",
+      "word": "お願いします",
+      "meaning": "부탁합니다",
+      "note": "おねがいします",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913741,
+      "updated": 1791532913741
+    },
+    {
+      "id": "mv0ofvb8bgv9o11",
+      "word": "はじめまして",
+      "meaning": "처음 뵙겠습니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913742,
+      "updated": 1791532913742
+    },
+    {
+      "id": "mv0ofvb8qx1yj12",
+      "word": "どうぞよろしくお願いします",
+      "meaning": "잘 부탁드립니다",
+      "note": "どうぞよろしくおねがいします",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913743,
+      "updated": 1791532913743
+    },
+    {
+      "id": "mv0ofvb8hb10z13",
+      "word": "お元気ですか",
+      "meaning": "잘 지내세요?",
+      "note": "おげんきですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913744,
+      "updated": 1791532913744
+    },
+    {
+      "id": "mv0ofvb8jsjn014",
+      "word": "元気です",
+      "meaning": "잘 지내요",
+      "note": "げんきです",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913745,
+      "updated": 1791532913745
+    },
+    {
+      "id": "mv0ofvb8i5h8k15",
+      "word": "お久しぶりです",
+      "meaning": "오랜만입니다",
+      "note": "おひさしぶりです",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913746,
+      "updated": 1791532913746
+    },
+    {
+      "id": "mv0ofvb8ju7n116",
+      "word": "いただきます",
+      "meaning": "잘 먹겠습니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913747,
+      "updated": 1791532913747
+    },
+    {
+      "id": "mv0ofvb84h07m17",
+      "word": "ご馳走様でした",
+      "meaning": "잘 먹었습니다",
+      "note": "ごちそうさまでした",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913748,
+      "updated": 1791532913748
+    },
+    {
+      "id": "mv0ofvb80s2k618",
+      "word": "行ってきます",
+      "meaning": "다녀오겠습니다",
+      "note": "いってきます",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913749,
+      "updated": 1791532913749
+    },
+    {
+      "id": "mv0ofvb8iubtb19",
+      "word": "行ってらっしゃい",
+      "meaning": "다녀오세요",
+      "note": "いってらっしゃい",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913750,
+      "updated": 1791532913750
+    },
+    {
+      "id": "mv0ofvb8u3y9420",
+      "word": "ただいま",
+      "meaning": "다녀왔습니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913751,
+      "updated": 1791532913751
+    },
+    {
+      "id": "mv0ofvb8a1x3821",
+      "word": "お帰りなさい",
+      "meaning": "어서 오세요(귀가)",
+      "note": "おかえりなさい",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913752,
+      "updated": 1791532913752
+    },
+    {
+      "id": "mv0ofvb81ut6122",
+      "word": "お疲れ様でした",
+      "meaning": "수고하셨습니다",
+      "note": "おつかれさまでした",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913753,
+      "updated": 1791532913753
+    },
+    {
+      "id": "mv0ofvb8om0ux23",
+      "word": "失礼します",
+      "meaning": "실례합니다",
+      "note": "しつれいします",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913754,
+      "updated": 1791532913754
+    },
+    {
+      "id": "mv0ofvb8i95p424",
+      "word": "失礼しました",
+      "meaning": "실례했습니다",
+      "note": "しつれいしました",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913755,
+      "updated": 1791532913755
+    },
+    {
+      "id": "mv0ofvb8psaa025",
+      "word": "お大事に",
+      "meaning": "몸조리 잘하세요",
+      "note": "おだいじに",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913756,
+      "updated": 1791532913756
+    },
+    {
+      "id": "mv0ofvb823r3l26",
+      "word": "気をつけて",
+      "meaning": "조심하세요",
+      "note": "きをつけて",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913757,
+      "updated": 1791532913757
+    },
+    {
+      "id": "mv0ofvb8t4k7627",
+      "word": "おめでとうございます",
+      "meaning": "축하합니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913758,
+      "updated": 1791532913758
+    },
+    {
+      "id": "mv0ofvb81jcuj28",
+      "word": "お名前は何ですか",
+      "meaning": "이름이 뭐예요?",
+      "note": "おなまえはなんですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913759,
+      "updated": 1791532913759
+    },
+    {
+      "id": "mv0ofvb8vmazx29",
+      "word": "私は田中です",
+      "meaning": "저는 다나카입니다",
+      "note": "わたしはたなかです",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913760,
+      "updated": 1791532913760
+    },
+    {
+      "id": "mv0ofvb8xrt4d30",
+      "word": "これは何ですか",
+      "meaning": "이것은 무엇입니까?",
+      "note": "これはなんですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913761,
+      "updated": 1791532913761
+    },
+    {
+      "id": "mv0ofvb80lj7q31",
+      "word": "これをください",
+      "meaning": "이것을 주세요",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913762,
+      "updated": 1791532913762
+    },
+    {
+      "id": "mv0ofvb82smnf32",
+      "word": "いくらですか",
+      "meaning": "얼마예요?",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913763,
+      "updated": 1791532913763
+    },
+    {
+      "id": "mv0ofvb8m2k5w33",
+      "word": "これは高いです",
+      "meaning": "이것은 비쌉니다",
+      "note": "これはたかいです",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913764,
+      "updated": 1791532913764
+    },
+    {
+      "id": "mv0ofvb8w4d7m34",
+      "word": "もう少し安くしてください",
+      "meaning": "조금 더 싸게 해 주세요",
+      "note": "もうすこしやすくしてください",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913765,
+      "updated": 1791532913765
+    },
+    {
+      "id": "mv0ofvb8m8quy35",
+      "word": "全部でいくらですか",
+      "meaning": "전부 해서 얼마예요?",
+      "note": "ぜんぶでいくらですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913766,
+      "updated": 1791532913766
+    },
+    {
+      "id": "mv0ofvb8d6meb36",
+      "word": "カードで払えますか",
+      "meaning": "카드로 결제할 수 있어요?",
+      "note": "カードではらえますか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913767,
+      "updated": 1791532913767
+    },
+    {
+      "id": "mv0ofvb847yhl37",
+      "word": "袋は要りますか",
+      "meaning": "봉투는 필요하세요?",
+      "note": "ふくろはいりますか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913768,
+      "updated": 1791532913768
+    },
+    {
+      "id": "mv0ofvb8b7m2r38",
+      "word": "袋は要りません",
+      "meaning": "봉투는 필요 없어요",
+      "note": "ふくろはいりません",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913769,
+      "updated": 1791532913769
+    },
+    {
+      "id": "mv0ofvb8o569l39",
+      "word": "今何時ですか",
+      "meaning": "지금 몇 시예요?",
+      "note": "いまなんじですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913770,
+      "updated": 1791532913770
+    },
+    {
+      "id": "mv0ofvb88w3xn40",
+      "word": "何時に始まりますか",
+      "meaning": "몇 시에 시작해요?",
+      "note": "なんじにはじまりますか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913771,
+      "updated": 1791532913771
+    },
+    {
+      "id": "mv0ofvb838tls41",
+      "word": "何曜日ですか",
+      "meaning": "무슨 요일이에요?",
+      "note": "なんようびですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913772,
+      "updated": 1791532913772
+    },
+    {
+      "id": "mv0ofvb8l1h6h42",
+      "word": "今日は何月何日ですか",
+      "meaning": "오늘은 몇 월 며칠이에요?",
+      "note": "きょうはなんがつなんにちですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913773,
+      "updated": 1791532913773
+    },
+    {
+      "id": "mv0ofvb8j23kw43",
+      "word": "すみません、駅はどこですか",
+      "meaning": "실례합니다, 역은 어디예요?",
+      "note": "すみません、えきはどこですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913774,
+      "updated": 1791532913774
+    },
+    {
+      "id": "mv0ofvb8b3l2244",
+      "word": "まっすぐ行ってください",
+      "meaning": "곧장 가세요",
+      "note": "まっすぐいってください",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913775,
+      "updated": 1791532913775
+    },
+    {
+      "id": "mv0ofvb8cl9hy45",
+      "word": "右に曲がってください",
+      "meaning": "오른쪽으로 도세요",
+      "note": "みぎにまがってください",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913776,
+      "updated": 1791532913776
+    },
+    {
+      "id": "mv0ofvb80rv3946",
+      "word": "左に曲がってください",
+      "meaning": "왼쪽으로 도세요",
+      "note": "ひだりにまがってください",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913777,
+      "updated": 1791532913777
+    },
+    {
+      "id": "mv0ofvb8h1kq247",
+      "word": "ここから近いですか",
+      "meaning": "여기서 가까워요?",
+      "note": "ここからちかいですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913778,
+      "updated": 1791532913778
+    },
+    {
+      "id": "mv0ofvb8pqs8g48",
+      "word": "歩いてどのくらいかかりますか",
+      "meaning": "걸어서 얼마나 걸려요?",
+      "note": "あるいてどのくらいかかりますか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913779,
+      "updated": 1791532913779
+    },
+    {
+      "id": "mv0ofvb8cp4ac49",
+      "word": "トイレはどこですか",
+      "meaning": "화장실은 어디예요?",
+      "note": "トイレはどこですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913780,
+      "updated": 1791532913780
+    },
+    {
+      "id": "mv0ofvb8eaz2g50",
+      "word": "この電車は新宿に行きますか",
+      "meaning": "이 전철은 신주쿠에 가요?",
+      "note": "このでんしゃはしんじゅくにいきますか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913781,
+      "updated": 1791532913781
+    },
+    {
+      "id": "mv0ofvb8yskb151",
+      "word": "次の駅はどこですか",
+      "meaning": "다음 역은 어디예요?",
+      "note": "つぎのえきはどこですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913782,
+      "updated": 1791532913782
+    },
+    {
+      "id": "mv0ofvb80n2rd52",
+      "word": "切符はどこで買いますか",
+      "meaning": "표는 어디서 사요?",
+      "note": "きっぷはどこでかいますか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913783,
+      "updated": 1791532913783
+    },
+    {
+      "id": "mv0ofvb8h3jnl53",
+      "word": "すみません、写真を撮ってもいいですか",
+      "meaning": "실례지만 사진 찍어도 될까요?",
+      "note": "すみません、しゃしんをとってもいいですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913784,
+      "updated": 1791532913784
+    },
+    {
+      "id": "mv0ofvb87jz3j54",
+      "word": "ここに座ってもいいですか",
+      "meaning": "여기 앉아도 돼요?",
+      "note": "ここにすわってもいいですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913785,
+      "updated": 1791532913785
+    },
+    {
+      "id": "mv0ofvb8y813e55",
+      "word": "窓を開けてもいいですか",
+      "meaning": "창문을 열어도 돼요?",
+      "note": "まどをあけてもいいですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913786,
+      "updated": 1791532913786
+    },
+    {
+      "id": "mv0ofvb8s8wti56",
+      "word": "ちょっと待ってください",
+      "meaning": "잠깐 기다려 주세요",
+      "note": "ちょっとまってください",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913787,
+      "updated": 1791532913787
+    },
+    {
+      "id": "mv0ofvb86myvb57",
+      "word": "もう一度言ってください",
+      "meaning": "다시 한번 말해 주세요",
+      "note": "もういちどいってください",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913788,
+      "updated": 1791532913788
+    },
+    {
+      "id": "mv0ofvb8r2v8n58",
+      "word": "ゆっくり話してください",
+      "meaning": "천천히 말해 주세요",
+      "note": "ゆっくりはなしてください",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913789,
+      "updated": 1791532913789
+    },
+    {
+      "id": "mv0ofvb8g59kt59",
+      "word": "分かりません",
+      "meaning": "모르겠어요",
+      "note": "わかりません",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913790,
+      "updated": 1791532913790
+    },
+    {
+      "id": "mv0ofvb8i811m60",
+      "word": "分かりました",
+      "meaning": "알겠습니다",
+      "note": "わかりました",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913791,
+      "updated": 1791532913791
+    },
+    {
+      "id": "mv0ofvb88ia7161",
+      "word": "日本語が分かりません",
+      "meaning": "일본어를 몰라요",
+      "note": "にほんごがわかりません",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913792,
+      "updated": 1791532913792
+    },
+    {
+      "id": "mv0ofvb8vj9g862",
+      "word": "日本語で何と言いますか",
+      "meaning": "일본어로 뭐라고 해요?",
+      "note": "にほんごでなんといいますか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913793,
+      "updated": 1791532913793
+    },
+    {
+      "id": "mv0ofvb8xry8863",
+      "word": "これは日本語で何ですか",
+      "meaning": "이것은 일본어로 뭐예요?",
+      "note": "これはにほんごでなんですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913794,
+      "updated": 1791532913794
+    },
+    {
+      "id": "mv0ofvb8zciou64",
+      "word": "もう一度お願いします",
+      "meaning": "다시 한번 부탁해요",
+      "note": "もういちどおねがいします",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913795,
+      "updated": 1791532913795
+    },
+    {
+      "id": "mv0ofvb8tua8d65",
+      "word": "今日は忙しいです",
+      "meaning": "오늘은 바빠요",
+      "note": "きょうはいそがしいです",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913796,
+      "updated": 1791532913796
+    },
+    {
+      "id": "mv0ofvb8nbmfr66",
+      "word": "明日は暇です",
+      "meaning": "내일은 한가해요",
+      "note": "あしたはひまです",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913797,
+      "updated": 1791532913797
+    },
+    {
+      "id": "mv0ofvb8k1i3767",
+      "word": "お腹が空きました",
+      "meaning": "배가 고파요",
+      "note": "おなかがすきました",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913798,
+      "updated": 1791532913798
+    },
+    {
+      "id": "mv0ofvb8kcvrv68",
+      "word": "喉が渇きました",
+      "meaning": "목이 말라요",
+      "note": "のどがかわきました",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913799,
+      "updated": 1791532913799
+    },
+    {
+      "id": "mv0ofvb8chjcx69",
+      "word": "疲れました",
+      "meaning": "피곤해요",
+      "note": "つかれました",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913800,
+      "updated": 1791532913800
+    },
+    {
+      "id": "mv0ofvb8u83s270",
+      "word": "眠いです",
+      "meaning": "졸려요",
+      "note": "ねむいです",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913801,
+      "updated": 1791532913801
+    },
+    {
+      "id": "mv0ofvb8ldjzx71",
+      "word": "寒いですね",
+      "meaning": "춥네요",
+      "note": "さむいですね",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913802,
+      "updated": 1791532913802
+    },
+    {
+      "id": "mv0ofvb80om1m72",
+      "word": "暑いですね",
+      "meaning": "덥네요",
+      "note": "あついですね",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913803,
+      "updated": 1791532913803
+    },
+    {
+      "id": "mv0ofvb88n61i73",
+      "word": "いい天気ですね",
+      "meaning": "날씨가 좋네요",
+      "note": "いいてんきですね",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913804,
+      "updated": 1791532913804
+    },
+    {
+      "id": "mv0ofvb8jibtz74",
+      "word": "頑張ってください",
+      "meaning": "힘내세요",
+      "note": "がんばってください",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913805,
+      "updated": 1791532913805
+    },
+    {
+      "id": "mv0ofvb8wicqj75",
+      "word": "頑張ります",
+      "meaning": "열심히 하겠습니다",
+      "note": "がんばります",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913806,
+      "updated": 1791532913806
+    },
+    {
+      "id": "mv0ofvb8502uz76",
+      "word": "気をつけてください",
+      "meaning": "조심하세요",
+      "note": "きをつけてください",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913807,
+      "updated": 1791532913807
+    },
+    {
+      "id": "mv0ofvb8oza4e77",
+      "word": "大丈夫ですか",
+      "meaning": "괜찮으세요?",
+      "note": "だいじょうぶですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913808,
+      "updated": 1791532913808
+    },
+    {
+      "id": "mv0ofvb8snra678",
+      "word": "今日は何をしますか",
+      "meaning": "오늘은 뭐 해요?",
+      "note": "きょうはなにをしますか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913809,
+      "updated": 1791532913809
+    },
+    {
+      "id": "mv0ofvb81id0879",
+      "word": "週末は何をしましたか",
+      "meaning": "주말에 뭐 했어요?",
+      "note": "しゅうまつはなにをしましたか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913810,
+      "updated": 1791532913810
+    },
+    {
+      "id": "mv0ofvb826g4k80",
+      "word": "明日、時間がありますか",
+      "meaning": "내일 시간 있어요?",
+      "note": "あした、じかんがありますか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913811,
+      "updated": 1791532913811
+    },
+    {
+      "id": "mv0ofvb807f1c81",
+      "word": "一緒に行きませんか",
+      "meaning": "같이 가지 않을래요?",
+      "note": "いっしょにいきませんか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913812,
+      "updated": 1791532913812
+    },
+    {
+      "id": "mv0ofvb8i8m4k82",
+      "word": "今度、一緒に食事しましょう",
+      "meaning": "다음에 같이 식사해요",
+      "note": "こんど、いっしょにしょくじしましょう",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913813,
+      "updated": 1791532913813
+    },
+    {
+      "id": "mv0ofvb81eofg83",
+      "word": "何が食べたいですか",
+      "meaning": "뭐 먹고 싶어요?",
+      "note": "なにがたべたいですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913814,
+      "updated": 1791532913814
+    },
+    {
+      "id": "mv0ofvb8n77n384",
+      "word": "お勧めは何ですか",
+      "meaning": "추천 메뉴가 뭐예요?",
+      "note": "おすすめはなんですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913815,
+      "updated": 1791532913815
+    },
+    {
+      "id": "mv0ofvb8gjecn85",
+      "word": "これと同じものをください",
+      "meaning": "이것과 같은 것을 주세요",
+      "note": "これとおなじものをください",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913816,
+      "updated": 1791532913816
+    },
+    {
+      "id": "mv0ofvb8kny0q86",
+      "word": "メニューを見せてください",
+      "meaning": "메뉴 좀 보여주세요",
+      "note": "メニューをみせてください",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913817,
+      "updated": 1791532913817
+    },
+    {
+      "id": "mv0ofvb8uczg487",
+      "word": "水をください",
+      "meaning": "물 좀 주세요",
+      "note": "みずをください",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913818,
+      "updated": 1791532913818
+    },
+    {
+      "id": "mv0ofvb8o3uje88",
+      "word": "お会計をお願いします",
+      "meaning": "계산 부탁드려요",
+      "note": "おかいけいをおねがいします",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913819,
+      "updated": 1791532913819
+    },
+    {
+      "id": "mv0ofvb87rksk89",
+      "word": "もしもし",
+      "meaning": "여보세요(전화)",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913820,
+      "updated": 1791532913820
+    },
+    {
+      "id": "mv0ofvb8riiul90",
+      "word": "ちょっと聞いてもいいですか",
+      "meaning": "잠깐 물어봐도 돼요?",
+      "note": "ちょっときいてもいいですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913821,
+      "updated": 1791532913821
+    },
+    {
+      "id": "mv0ofvb85071x91",
+      "word": "すみません、今大丈夫ですか",
+      "meaning": "저기, 지금 괜찮으세요?",
+      "note": "すみません、いまだいじょうぶですか",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913822,
+      "updated": 1791532913822
+    },
+    {
+      "id": "mv0ofvb8ha1hd92",
+      "word": "また後で",
+      "meaning": "나중에 또 봐요",
+      "note": "またあとで",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913823,
+      "updated": 1791532913823
+    },
+    {
+      "id": "mv0ofvb8mnorr93",
+      "word": "また明日",
+      "meaning": "내일 또 봐요",
+      "note": "またあした",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913824,
+      "updated": 1791532913824
+    },
+    {
+      "id": "mv0ofvb8s7n8294",
+      "word": "お先に失礼します",
+      "meaning": "먼저 실례하겠습니다(퇴근 인사)",
+      "note": "おさきにしつれいします",
+      "example": "",
+      "tags": [
+        "N5 회화"
+      ],
+      "created": 1791532913825,
+      "updated": 1791532913825
     }
   ],
   "stats": {
