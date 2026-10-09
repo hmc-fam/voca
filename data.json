@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "sample0",
+      "word": "apple",
+      "meaning": "사과",
+      "note": "과일 이름",
+      "example": "An apple a day keeps the doctor away.",
+      "tags": [
+        "예시"
+      ],
+      "created": 1791528859326,
+      "updated": 1791528859326
+    },
+    {
+      "id": "sample1",
+      "word": "diligent",
+      "meaning": "부지런한",
+      "note": "노력을 꾸준히 기울이는 모습",
+      "example": "She is a diligent student.",
+      "tags": [
+        "예시"
+      ],
+      "created": 1791528859327,
+      "updated": 1791528859327
+    },
+    {
+      "id": "sample2",
+      "word": "borrow",
+      "meaning": "빌리다",
+      "note": "반대말은 lend(빌려주다)",
+      "example": "Can I borrow your pen?",
+      "tags": [
+        "예시"
+      ],
+      "created": 1791528859328,
+      "updated": 1791528859328
+    },
+    {
+      "id": "sample3",
+      "word": "ancient",
+      "meaning": "고대의",
+      "note": "아주 오래된",
+      "example": "They visited an ancient temple.",
+      "tags": [
+        "예시"
+      ],
+      "created": 1791528859329,
+      "updated": 1791528859329
+    }
+  ],
+  "stats": {},
+  "sessions": []
+}
