@@ -4970,7 +4970,148 @@
       "updated": 1791532070477
     }
   ],
-  "stats": {},
+  "stats": {
+    "mv0nxsc5vq4y5300": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791532300518
+    },
+    "mv0nxsc5cef8x291": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "streak": 0,
+      "last": 1791532300518
+    },
+    "mv0nxsc5indlk228": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "streak": 0,
+      "last": 1791532300518
+    },
+    "mv0nxsc5nd3te322": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791532300518
+    },
+    "mv0nxsc5sbp0i171": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "streak": 0,
+      "last": 1791532300518
+    },
+    "mv0nxsc4tycov26": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791532300518
+    },
+    "mv0nxsc5o156v395": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "streak": 0,
+      "last": 1791532300518
+    },
+    "mv0nxsc4b960768": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "streak": 0,
+      "last": 1791532300518
+    },
+    "mv0nxsc5ol8c5292": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "streak": 0,
+      "last": 1791532300518
+    },
+    "mv0nxsc5fwa6c220": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "streak": 0,
+      "last": 1791532300518
+    },
+    "mv0nxsc5v38en403": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791532300518
+    },
+    "mv0nxsc5p7ome266": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791532300518
+    },
+    "mv0nxsc4p9o8u60": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791532300518
+    },
+    "mv0nxsc5loo4y182": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791532300518
+    },
+    "mv0nxsc5hg0mh320": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791532300518
+    },
+    "mv0nxsc5jrk03294": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791532300518
+    },
+    "mv0nxsc4gnu2u88": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791532300518
+    },
+    "mv0nxsc4mbafa56": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "streak": 0,
+      "last": 1791532300518
+    },
+    "mv0nxsc4js2bo16": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791532300518
+    },
+    "mv0nxsc4e9lsm25": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "streak": 0,
+      "last": 1791532300518
+    }
+  },
   "sessions": [
     {
       "t": 1791530917945,
@@ -4978,6 +5119,15 @@
       "c": 5,
       "tags": [
         "일본어 N5"
+      ],
+      "dir": "w2m"
+    },
+    {
+      "t": 1791532300518,
+      "n": 20,
+      "c": 11,
+      "tags": [
+        "N5 일본어"
       ],
       "dir": "w2m"
     }
