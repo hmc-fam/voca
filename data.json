@@ -6402,6 +6402,41 @@
       "wrong": 0,
       "streak": 1,
       "last": 1791533331336
+    },
+    "sample2": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791584572341
+    },
+    "sample0": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791584572341
+    },
+    "mv1j416vfr9lh": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last": 1791584572341
+    },
+    "sample1": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "streak": 0,
+      "last": 1791584572341
+    },
+    "sample3": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "streak": 0,
+      "last": 1791584572341
     }
   },
   "sessions": [
@@ -6431,6 +6466,15 @@
         "N5 회화"
       ],
       "dir": "m2w"
+    },
+    {
+      "t": 1791584572341,
+      "n": 5,
+      "c": 3,
+      "tags": [
+        "예시"
+      ],
+      "dir": "w2m"
     }
   ]
 }
