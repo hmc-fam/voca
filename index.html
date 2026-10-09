@@ -94,12 +94,9 @@ button.word-row:hover{background:var(--sunk)}
 .pill.good{background:var(--ok-soft);color:var(--ok)}
 .pill.mid{background:var(--sunk);color:var(--muted)}
 .pill.weak{background:var(--bad-soft);color:var(--bad)}
-.below{text-align:center;margin-top:10px}
+.add-row{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:12px}
 .empty{padding:28px 18px;text-align:center;color:var(--muted);background:var(--surface);border:1px dashed var(--line);border-radius:12px;margin:0}
 
-.fab{position:fixed;right:max(16px, calc(50% - 304px));bottom:calc(86px + env(safe-area-inset-bottom,0px));width:58px;height:58px;
-  border-radius:18px;border:none;background:var(--hl);color:#2B2300;box-shadow:var(--shadow);cursor:pointer;z-index:15;display:grid;place-items:center}
-.fab svg{width:28px;height:28px}
 
 /* buttons */
 .btn{border:1px solid var(--line);background:var(--surface);border-radius:12px;padding:11px 16px;font-weight:600;cursor:pointer;font-size:15px}
@@ -242,9 +239,6 @@ label.f .input{margin-top:6px;font-weight:400}
   <section id="view-stats" hidden></section>
 </main>
 
-<button class="fab" id="fab" type="button" aria-label="단어 추가" hidden>
-  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>
-</button>
 
 <nav class="tabs" aria-label="메뉴">
   <button type="button" data-tab="words">
@@ -511,7 +505,6 @@ function setMode() {
   if (state.loading) { m.textContent = '불러오는 중'; m.className = 'mode'; }
   else if (state.canEdit) { m.textContent = '편집 가능'; m.className = 'mode ok'; }
   else { m.textContent = '읽기 전용'; m.className = 'mode'; }
-  $('#fab').hidden = !(state.canEdit && state.tab === 'words');
 }
 function busy(btn, label) {
   if (label) { btn.dataset.label = btn.textContent; btn.textContent = label; btn.disabled = true; }
@@ -549,6 +542,10 @@ function renderWords() {
   const tags = allTags();
   if (state.tagFilter && !tags.includes(state.tagFilter)) state.tagFilter = '';
   v.innerHTML = `
+    ${state.canEdit ? `<div class="add-row">
+      <button type="button" class="btn primary" id="btnAdd">+ 단어 추가</button>
+      <button type="button" class="btn" id="btnBulk">여러 개 한 번에 추가</button>
+    </div>` : ''}
     <div class="toolbar">
       <input type="search" id="q" class="input" placeholder="단어, 뜻, 설명 검색" value="${esc(state.search)}" aria-label="검색">
       <select id="sort" class="input" aria-label="정렬">
@@ -560,12 +557,12 @@ function renderWords() {
       <button class="chip${!state.tagFilter ? ' on' : ''}" data-tag="">전체<span class="count">${words.length}</span></button>
       ${tags.map(t => `<button class="chip${state.tagFilter === t ? ' on' : ''}" data-tag="${esc(t)}">${esc(t)}<span class="count">${countTag(t)}</span></button>`).join('')}
     </div>` : ''}
-    <div id="wordListWrap"></div>
-    ${state.canEdit ? '<div class="below"><button class="link" id="btnBulk" type="button">여러 단어 한 번에 추가</button></div>' : ''}`;
+    <div id="wordListWrap"></div>`;
   $('#q').addEventListener('input', e => { state.search = e.target.value; renderWordList(); });
   $('#sort').addEventListener('change', e => { state.sort = e.target.value; renderWordList(); });
   $$('#tagFilter .chip').forEach(b => b.addEventListener('click', () => { state.tagFilter = b.dataset.tag; renderWords(); }));
   const bb = $('#btnBulk'); if (bb) bb.addEventListener('click', openBulk);
+  const ba = $('#btnAdd'); if (ba) ba.addEventListener('click', () => openWord(null));
   renderWordList();
 }
 function renderWordList() {
@@ -573,7 +570,7 @@ function renderWordList() {
   const { words } = state.data;
   if (!words.length) {
     wrap.innerHTML = `<p class="empty">${state.canEdit
-      ? '아직 단어가 없어요. 오른쪽 아래 + 버튼으로 첫 단어를 추가하세요.'
+      ? '아직 단어가 없어요. 위의 단어 추가 버튼으로 첫 단어를 추가하세요.'
       : '아직 단어가 없어요. 오른쪽 위 설정에서 GitHub를 연결하면 단어를 추가할 수 있어요.'}</p>`;
     return;
   }
@@ -1021,7 +1018,6 @@ $('#btnExport').addEventListener('click', () => {
 $$('[data-close]').forEach(b => b.addEventListener('click', () => b.closest('dialog').close()));
 $$('dialog').forEach(d => d.addEventListener('click', e => { if (e.target === d) d.close(); }));
 $$('.tabs button').forEach(b => b.addEventListener('click', () => switchTab(b.dataset.tab)));
-$('#fab').addEventListener('click', () => openWord(null));
 $('#btnSettings').addEventListener('click', openSettings);
 $('#mode').addEventListener('click', openSettings);
 $('#btnRefresh').addEventListener('click', () => load(true));
