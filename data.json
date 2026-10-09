@@ -48,6 +48,4926 @@
       ],
       "created": 1791528859329,
       "updated": 1791528859329
+    },
+    {
+      "id": "mv0nxsc4edeff0",
+      "word": "おはようございます",
+      "meaning": "안녕하세요(아침)",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070068,
+      "updated": 1791532070068
+    },
+    {
+      "id": "mv0nxsc4f00zw1",
+      "word": "こんにちは",
+      "meaning": "안녕하세요(낮)",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070069,
+      "updated": 1791532070069
+    },
+    {
+      "id": "mv0nxsc4n78qs2",
+      "word": "こんばんは",
+      "meaning": "안녕하세요(저녁)",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070070,
+      "updated": 1791532070070
+    },
+    {
+      "id": "mv0nxsc4tx0rd3",
+      "word": "さようなら",
+      "meaning": "안녕히 가세요",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070071,
+      "updated": 1791532070071
+    },
+    {
+      "id": "mv0nxsc4lnbph4",
+      "word": "おやすみなさい",
+      "meaning": "안녕히 주무세요",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070072,
+      "updated": 1791532070072
+    },
+    {
+      "id": "mv0nxsc4isury5",
+      "word": "ありがとうございます",
+      "meaning": "감사합니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070073,
+      "updated": 1791532070073
+    },
+    {
+      "id": "mv0nxsc4d85kf6",
+      "word": "すみません",
+      "meaning": "죄송합니다/실례합니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070074,
+      "updated": 1791532070074
+    },
+    {
+      "id": "mv0nxsc41m1h57",
+      "word": "ごめんなさい",
+      "meaning": "미안합니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070075,
+      "updated": 1791532070075
+    },
+    {
+      "id": "mv0nxsc4qpnzv8",
+      "word": "お願いします",
+      "meaning": "부탁합니다",
+      "note": "おねがいします",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070076,
+      "updated": 1791532070076
+    },
+    {
+      "id": "mv0nxsc44m1t19",
+      "word": "はじめまして",
+      "meaning": "처음 뵙겠습니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070077,
+      "updated": 1791532070077
+    },
+    {
+      "id": "mv0nxsc49hjgk10",
+      "word": "いただきます",
+      "meaning": "잘 먹겠습니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070078,
+      "updated": 1791532070078
+    },
+    {
+      "id": "mv0nxsc41ekyh11",
+      "word": "ごちそうさまでした",
+      "meaning": "잘 먹었습니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070079,
+      "updated": 1791532070079
+    },
+    {
+      "id": "mv0nxsc464doj12",
+      "word": "いってきます",
+      "meaning": "다녀오겠습니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070080,
+      "updated": 1791532070080
+    },
+    {
+      "id": "mv0nxsc4frtf313",
+      "word": "いってらっしゃい",
+      "meaning": "다녀오세요",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070081,
+      "updated": 1791532070081
+    },
+    {
+      "id": "mv0nxsc49dhrh14",
+      "word": "ただいま",
+      "meaning": "다녀왔습니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070082,
+      "updated": 1791532070082
+    },
+    {
+      "id": "mv0nxsc4d7pfz15",
+      "word": "おかえりなさい",
+      "meaning": "어서 오세요(귀가)",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070083,
+      "updated": 1791532070083
+    },
+    {
+      "id": "mv0nxsc4js2bo16",
+      "word": "はい",
+      "meaning": "네",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070084,
+      "updated": 1791532070084
+    },
+    {
+      "id": "mv0nxsc4ze3oh17",
+      "word": "いいえ",
+      "meaning": "아니요",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070085,
+      "updated": 1791532070085
+    },
+    {
+      "id": "mv0nxsc4kn1nq18",
+      "word": "これ",
+      "meaning": "이것",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070086,
+      "updated": 1791532070086
+    },
+    {
+      "id": "mv0nxsc44vx3e19",
+      "word": "それ",
+      "meaning": "그것",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070087,
+      "updated": 1791532070087
+    },
+    {
+      "id": "mv0nxsc4kgnuu20",
+      "word": "あれ",
+      "meaning": "저것",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070088,
+      "updated": 1791532070088
+    },
+    {
+      "id": "mv0nxsc4nmb1b21",
+      "word": "どれ",
+      "meaning": "어느 것",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070089,
+      "updated": 1791532070089
+    },
+    {
+      "id": "mv0nxsc4ddd3h22",
+      "word": "この",
+      "meaning": "이~",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070090,
+      "updated": 1791532070090
+    },
+    {
+      "id": "mv0nxsc4i8m7723",
+      "word": "その",
+      "meaning": "그~",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070091,
+      "updated": 1791532070091
+    },
+    {
+      "id": "mv0nxsc4tg5m724",
+      "word": "あの",
+      "meaning": "저~",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070092,
+      "updated": 1791532070092
+    },
+    {
+      "id": "mv0nxsc4e9lsm25",
+      "word": "どの",
+      "meaning": "어느~",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070093,
+      "updated": 1791532070093
+    },
+    {
+      "id": "mv0nxsc4tycov26",
+      "word": "ここ",
+      "meaning": "여기",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070094,
+      "updated": 1791532070094
+    },
+    {
+      "id": "mv0nxsc4j3kb127",
+      "word": "そこ",
+      "meaning": "거기",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070095,
+      "updated": 1791532070095
+    },
+    {
+      "id": "mv0nxsc4nb05c28",
+      "word": "あそこ",
+      "meaning": "저기",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070096,
+      "updated": 1791532070096
+    },
+    {
+      "id": "mv0nxsc452u3d29",
+      "word": "どこ",
+      "meaning": "어디",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070097,
+      "updated": 1791532070097
+    },
+    {
+      "id": "mv0nxsc49gp1o30",
+      "word": "こちら",
+      "meaning": "이쪽",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070098,
+      "updated": 1791532070098
+    },
+    {
+      "id": "mv0nxsc4h3ar731",
+      "word": "そちら",
+      "meaning": "그쪽",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070099,
+      "updated": 1791532070099
+    },
+    {
+      "id": "mv0nxsc4sywvc32",
+      "word": "あちら",
+      "meaning": "저쪽",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070100,
+      "updated": 1791532070100
+    },
+    {
+      "id": "mv0nxsc4box9q33",
+      "word": "どちら",
+      "meaning": "어느 쪽",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070101,
+      "updated": 1791532070101
+    },
+    {
+      "id": "mv0nxsc4v8kcn34",
+      "word": "だれ",
+      "meaning": "누구",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070102,
+      "updated": 1791532070102
+    },
+    {
+      "id": "mv0nxsc4ah6fo35",
+      "word": "どなた",
+      "meaning": "어느 분",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070103,
+      "updated": 1791532070103
+    },
+    {
+      "id": "mv0nxsc4kptm236",
+      "word": "なに/なん",
+      "meaning": "무엇",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070104,
+      "updated": 1791532070104
+    },
+    {
+      "id": "mv0nxsc47xbng37",
+      "word": "いつ",
+      "meaning": "언제",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070105,
+      "updated": 1791532070105
+    },
+    {
+      "id": "mv0nxsc45o7i438",
+      "word": "いくら",
+      "meaning": "얼마",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070106,
+      "updated": 1791532070106
+    },
+    {
+      "id": "mv0nxsc4xfmd839",
+      "word": "いくつ",
+      "meaning": "몇 개",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070107,
+      "updated": 1791532070107
+    },
+    {
+      "id": "mv0nxsc4sw1ne40",
+      "word": "どう",
+      "meaning": "어떻게",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070108,
+      "updated": 1791532070108
+    },
+    {
+      "id": "mv0nxsc45gqgy41",
+      "word": "どうして",
+      "meaning": "왜",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070109,
+      "updated": 1791532070109
+    },
+    {
+      "id": "mv0nxsc4lrgt742",
+      "word": "なぜ",
+      "meaning": "왜",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070110,
+      "updated": 1791532070110
+    },
+    {
+      "id": "mv0nxsc4gjgqb43",
+      "word": "どんな",
+      "meaning": "어떤",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070111,
+      "updated": 1791532070111
+    },
+    {
+      "id": "mv0nxsc4uw6bf44",
+      "word": "一",
+      "meaning": "1",
+      "note": "いち",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070112,
+      "updated": 1791532070112
+    },
+    {
+      "id": "mv0nxsc4vhxh145",
+      "word": "二",
+      "meaning": "2",
+      "note": "に",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070113,
+      "updated": 1791532070113
+    },
+    {
+      "id": "mv0nxsc44vwjt46",
+      "word": "三",
+      "meaning": "3",
+      "note": "さん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070114,
+      "updated": 1791532070114
+    },
+    {
+      "id": "mv0nxsc4ttrrk47",
+      "word": "四",
+      "meaning": "4",
+      "note": "よん/し",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070115,
+      "updated": 1791532070115
+    },
+    {
+      "id": "mv0nxsc43o3ij48",
+      "word": "五",
+      "meaning": "5",
+      "note": "ご",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070116,
+      "updated": 1791532070116
+    },
+    {
+      "id": "mv0nxsc4eq60p49",
+      "word": "六",
+      "meaning": "6",
+      "note": "ろく",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070117,
+      "updated": 1791532070117
+    },
+    {
+      "id": "mv0nxsc41ubca50",
+      "word": "七",
+      "meaning": "7",
+      "note": "なな/しち",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070118,
+      "updated": 1791532070118
+    },
+    {
+      "id": "mv0nxsc4xsn3n51",
+      "word": "八",
+      "meaning": "8",
+      "note": "はち",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070119,
+      "updated": 1791532070119
+    },
+    {
+      "id": "mv0nxsc4lk4nk52",
+      "word": "九",
+      "meaning": "9",
+      "note": "きゅう/く",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070120,
+      "updated": 1791532070120
+    },
+    {
+      "id": "mv0nxsc4g44o953",
+      "word": "十",
+      "meaning": "10",
+      "note": "じゅう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070121,
+      "updated": 1791532070121
+    },
+    {
+      "id": "mv0nxsc4g7vv654",
+      "word": "百",
+      "meaning": "100",
+      "note": "ひゃく",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070122,
+      "updated": 1791532070122
+    },
+    {
+      "id": "mv0nxsc4khe8v55",
+      "word": "千",
+      "meaning": "1000",
+      "note": "せん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070123,
+      "updated": 1791532070123
+    },
+    {
+      "id": "mv0nxsc4mbafa56",
+      "word": "万",
+      "meaning": "10000",
+      "note": "まん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070124,
+      "updated": 1791532070124
+    },
+    {
+      "id": "mv0nxsc4ccq8c57",
+      "word": "一つ",
+      "meaning": "한 개",
+      "note": "ひとつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070125,
+      "updated": 1791532070125
+    },
+    {
+      "id": "mv0nxsc468hj958",
+      "word": "二つ",
+      "meaning": "두 개",
+      "note": "ふたつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070126,
+      "updated": 1791532070126
+    },
+    {
+      "id": "mv0nxsc4bkls459",
+      "word": "三つ",
+      "meaning": "세 개",
+      "note": "みっつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070127,
+      "updated": 1791532070127
+    },
+    {
+      "id": "mv0nxsc4p9o8u60",
+      "word": "四つ",
+      "meaning": "네 개",
+      "note": "よっつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070128,
+      "updated": 1791532070128
+    },
+    {
+      "id": "mv0nxsc43xyk361",
+      "word": "五つ",
+      "meaning": "다섯 개",
+      "note": "いつつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070129,
+      "updated": 1791532070129
+    },
+    {
+      "id": "mv0nxsc4ln3cb62",
+      "word": "今",
+      "meaning": "지금",
+      "note": "いま",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070130,
+      "updated": 1791532070130
+    },
+    {
+      "id": "mv0nxsc4g93xx63",
+      "word": "今日",
+      "meaning": "오늘",
+      "note": "きょう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070131,
+      "updated": 1791532070131
+    },
+    {
+      "id": "mv0nxsc4forq164",
+      "word": "明日",
+      "meaning": "내일",
+      "note": "あした",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070132,
+      "updated": 1791532070132
+    },
+    {
+      "id": "mv0nxsc4qxipr65",
+      "word": "昨日",
+      "meaning": "어제",
+      "note": "きのう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070133,
+      "updated": 1791532070133
+    },
+    {
+      "id": "mv0nxsc4soma666",
+      "word": "明後日",
+      "meaning": "모레",
+      "note": "あさって",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070134,
+      "updated": 1791532070134
+    },
+    {
+      "id": "mv0nxsc40qud567",
+      "word": "一昨日",
+      "meaning": "그저께",
+      "note": "おととい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070135,
+      "updated": 1791532070135
+    },
+    {
+      "id": "mv0nxsc4b960768",
+      "word": "今朝",
+      "meaning": "오늘 아침",
+      "note": "けさ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070136,
+      "updated": 1791532070136
+    },
+    {
+      "id": "mv0nxsc4s69sh69",
+      "word": "今晩",
+      "meaning": "오늘 밤",
+      "note": "こんばん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070137,
+      "updated": 1791532070137
+    },
+    {
+      "id": "mv0nxsc4axrun70",
+      "word": "今週",
+      "meaning": "이번 주",
+      "note": "こんしゅう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070138,
+      "updated": 1791532070138
+    },
+    {
+      "id": "mv0nxsc46wyeu71",
+      "word": "来週",
+      "meaning": "다음 주",
+      "note": "らいしゅう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070139,
+      "updated": 1791532070139
+    },
+    {
+      "id": "mv0nxsc4p68fr72",
+      "word": "先週",
+      "meaning": "지난주",
+      "note": "せんしゅう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070140,
+      "updated": 1791532070140
+    },
+    {
+      "id": "mv0nxsc4skn4473",
+      "word": "今月",
+      "meaning": "이번 달",
+      "note": "こんげつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070141,
+      "updated": 1791532070141
+    },
+    {
+      "id": "mv0nxsc40d8pu74",
+      "word": "来月",
+      "meaning": "다음 달",
+      "note": "らいげつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070142,
+      "updated": 1791532070142
+    },
+    {
+      "id": "mv0nxsc4j024j75",
+      "word": "先月",
+      "meaning": "지난달",
+      "note": "せんげつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070143,
+      "updated": 1791532070143
+    },
+    {
+      "id": "mv0nxsc4153nv76",
+      "word": "今年",
+      "meaning": "올해",
+      "note": "ことし",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070144,
+      "updated": 1791532070144
+    },
+    {
+      "id": "mv0nxsc4gb8wu77",
+      "word": "来年",
+      "meaning": "내년",
+      "note": "らいねん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070145,
+      "updated": 1791532070145
+    },
+    {
+      "id": "mv0nxsc4cc5v678",
+      "word": "去年",
+      "meaning": "작년",
+      "note": "きょねん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070146,
+      "updated": 1791532070146
+    },
+    {
+      "id": "mv0nxsc47eeu579",
+      "word": "毎日",
+      "meaning": "매일",
+      "note": "まいにち",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070147,
+      "updated": 1791532070147
+    },
+    {
+      "id": "mv0nxsc4lnhud80",
+      "word": "毎朝",
+      "meaning": "매일 아침",
+      "note": "まいあさ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070148,
+      "updated": 1791532070148
+    },
+    {
+      "id": "mv0nxsc4z4ncp81",
+      "word": "毎晩",
+      "meaning": "매일 밤",
+      "note": "まいばん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070149,
+      "updated": 1791532070149
+    },
+    {
+      "id": "mv0nxsc48wqbv82",
+      "word": "毎週",
+      "meaning": "매주",
+      "note": "まいしゅう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070150,
+      "updated": 1791532070150
+    },
+    {
+      "id": "mv0nxsc45r4vq83",
+      "word": "時間",
+      "meaning": "시간",
+      "note": "じかん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070151,
+      "updated": 1791532070151
+    },
+    {
+      "id": "mv0nxsc46zwxp84",
+      "word": "朝",
+      "meaning": "아침",
+      "note": "あさ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070152,
+      "updated": 1791532070152
+    },
+    {
+      "id": "mv0nxsc4o8wg285",
+      "word": "昼",
+      "meaning": "낮",
+      "note": "ひる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070153,
+      "updated": 1791532070153
+    },
+    {
+      "id": "mv0nxsc40iw5s86",
+      "word": "夜",
+      "meaning": "밤",
+      "note": "よる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070154,
+      "updated": 1791532070154
+    },
+    {
+      "id": "mv0nxsc4fror887",
+      "word": "午前",
+      "meaning": "오전",
+      "note": "ごぜん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070155,
+      "updated": 1791532070155
+    },
+    {
+      "id": "mv0nxsc4gnu2u88",
+      "word": "午後",
+      "meaning": "오후",
+      "note": "ごご",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070156,
+      "updated": 1791532070156
+    },
+    {
+      "id": "mv0nxsc4ux7lu89",
+      "word": "~時",
+      "meaning": "~시",
+      "note": "~じ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070157,
+      "updated": 1791532070157
+    },
+    {
+      "id": "mv0nxsc4h0k1190",
+      "word": "~分",
+      "meaning": "~분",
+      "note": "~ふん/ぷん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070158,
+      "updated": 1791532070158
+    },
+    {
+      "id": "mv0nxsc4i0bpt91",
+      "word": "月曜日",
+      "meaning": "월요일",
+      "note": "げつようび",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070159,
+      "updated": 1791532070159
+    },
+    {
+      "id": "mv0nxsc4tfce392",
+      "word": "火曜日",
+      "meaning": "화요일",
+      "note": "かようび",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070160,
+      "updated": 1791532070160
+    },
+    {
+      "id": "mv0nxsc5whodi93",
+      "word": "水曜日",
+      "meaning": "수요일",
+      "note": "すいようび",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070161,
+      "updated": 1791532070161
+    },
+    {
+      "id": "mv0nxsc5x6bnv94",
+      "word": "木曜日",
+      "meaning": "목요일",
+      "note": "もくようび",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070162,
+      "updated": 1791532070162
+    },
+    {
+      "id": "mv0nxsc5z6hvu95",
+      "word": "金曜日",
+      "meaning": "금요일",
+      "note": "きんようび",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070163,
+      "updated": 1791532070163
+    },
+    {
+      "id": "mv0nxsc5itwi896",
+      "word": "土曜日",
+      "meaning": "토요일",
+      "note": "どようび",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070164,
+      "updated": 1791532070164
+    },
+    {
+      "id": "mv0nxsc5s0ljz97",
+      "word": "日曜日",
+      "meaning": "일요일",
+      "note": "にちようび",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070165,
+      "updated": 1791532070165
+    },
+    {
+      "id": "mv0nxsc52gj5j98",
+      "word": "何曜日",
+      "meaning": "무슨 요일",
+      "note": "なんようび",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070166,
+      "updated": 1791532070166
+    },
+    {
+      "id": "mv0nxsc5srle299",
+      "word": "一月",
+      "meaning": "1월",
+      "note": "いちがつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070167,
+      "updated": 1791532070167
+    },
+    {
+      "id": "mv0nxsc583vdz100",
+      "word": "二月",
+      "meaning": "2월",
+      "note": "にがつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070168,
+      "updated": 1791532070168
+    },
+    {
+      "id": "mv0nxsc5y1vi5101",
+      "word": "三月",
+      "meaning": "3월",
+      "note": "さんがつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070169,
+      "updated": 1791532070169
+    },
+    {
+      "id": "mv0nxsc5z1v50102",
+      "word": "四月",
+      "meaning": "4월",
+      "note": "しがつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070170,
+      "updated": 1791532070170
+    },
+    {
+      "id": "mv0nxsc5vfiw0103",
+      "word": "五月",
+      "meaning": "5월",
+      "note": "ごがつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070171,
+      "updated": 1791532070171
+    },
+    {
+      "id": "mv0nxsc5laqrp104",
+      "word": "六月",
+      "meaning": "6월",
+      "note": "ろくがつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070172,
+      "updated": 1791532070172
+    },
+    {
+      "id": "mv0nxsc5l8mfh105",
+      "word": "七月",
+      "meaning": "7월",
+      "note": "しちがつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070173,
+      "updated": 1791532070173
+    },
+    {
+      "id": "mv0nxsc5cldfa106",
+      "word": "八月",
+      "meaning": "8월",
+      "note": "はちがつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070174,
+      "updated": 1791532070174
+    },
+    {
+      "id": "mv0nxsc5ynvq1107",
+      "word": "九月",
+      "meaning": "9월",
+      "note": "くがつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070175,
+      "updated": 1791532070175
+    },
+    {
+      "id": "mv0nxsc5po8od108",
+      "word": "十月",
+      "meaning": "10월",
+      "note": "じゅうがつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070176,
+      "updated": 1791532070176
+    },
+    {
+      "id": "mv0nxsc5v0yon109",
+      "word": "十一月",
+      "meaning": "11월",
+      "note": "じゅういちがつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070177,
+      "updated": 1791532070177
+    },
+    {
+      "id": "mv0nxsc56c0x1110",
+      "word": "十二月",
+      "meaning": "12월",
+      "note": "じゅうにがつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070178,
+      "updated": 1791532070178
+    },
+    {
+      "id": "mv0nxsc5mm212111",
+      "word": "家族",
+      "meaning": "가족",
+      "note": "かぞく",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070179,
+      "updated": 1791532070179
+    },
+    {
+      "id": "mv0nxsc52h23p112",
+      "word": "お父さん",
+      "meaning": "아버지(남의/존칭)",
+      "note": "おとうさん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070180,
+      "updated": 1791532070180
+    },
+    {
+      "id": "mv0nxsc53w523113",
+      "word": "お母さん",
+      "meaning": "어머니(남의/존칭)",
+      "note": "おかあさん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070181,
+      "updated": 1791532070181
+    },
+    {
+      "id": "mv0nxsc5bgcv8114",
+      "word": "父",
+      "meaning": "(제)아버지",
+      "note": "ちち",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070182,
+      "updated": 1791532070182
+    },
+    {
+      "id": "mv0nxsc5eqhjm115",
+      "word": "母",
+      "meaning": "(제)어머니",
+      "note": "はは",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070183,
+      "updated": 1791532070183
+    },
+    {
+      "id": "mv0nxsc5xyp5e116",
+      "word": "お兄さん",
+      "meaning": "형/오빠",
+      "note": "おにいさん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070184,
+      "updated": 1791532070184
+    },
+    {
+      "id": "mv0nxsc5k6a4v117",
+      "word": "お姉さん",
+      "meaning": "누나/언니",
+      "note": "おねえさん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070185,
+      "updated": 1791532070185
+    },
+    {
+      "id": "mv0nxsc5so4uf118",
+      "word": "兄",
+      "meaning": "(제)형/오빠",
+      "note": "あに",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070186,
+      "updated": 1791532070186
+    },
+    {
+      "id": "mv0nxsc5gl0ft119",
+      "word": "姉",
+      "meaning": "(제)누나/언니",
+      "note": "あね",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070187,
+      "updated": 1791532070187
+    },
+    {
+      "id": "mv0nxsc5br0i6120",
+      "word": "弟",
+      "meaning": "남동생",
+      "note": "おとうと",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070188,
+      "updated": 1791532070188
+    },
+    {
+      "id": "mv0nxsc5ndqno121",
+      "word": "妹",
+      "meaning": "여동생",
+      "note": "いもうと",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070189,
+      "updated": 1791532070189
+    },
+    {
+      "id": "mv0nxsc51w3kl122",
+      "word": "おじいさん",
+      "meaning": "할아버지",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070190,
+      "updated": 1791532070190
+    },
+    {
+      "id": "mv0nxsc5ds2zy123",
+      "word": "おばあさん",
+      "meaning": "할머니",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070191,
+      "updated": 1791532070191
+    },
+    {
+      "id": "mv0nxsc5lzets124",
+      "word": "両親",
+      "meaning": "부모님",
+      "note": "りょうしん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070192,
+      "updated": 1791532070192
+    },
+    {
+      "id": "mv0nxsc51ggxk125",
+      "word": "子供",
+      "meaning": "아이",
+      "note": "こども",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070193,
+      "updated": 1791532070193
+    },
+    {
+      "id": "mv0nxsc5o3fes126",
+      "word": "兄弟",
+      "meaning": "형제",
+      "note": "きょうだい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070194,
+      "updated": 1791532070194
+    },
+    {
+      "id": "mv0nxsc50khta127",
+      "word": "夫",
+      "meaning": "남편",
+      "note": "おっと",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070195,
+      "updated": 1791532070195
+    },
+    {
+      "id": "mv0nxsc526qbk128",
+      "word": "妻",
+      "meaning": "아내",
+      "note": "つま",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070196,
+      "updated": 1791532070196
+    },
+    {
+      "id": "mv0nxsc5o5mon129",
+      "word": "おじさん",
+      "meaning": "아저씨/삼촌",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070197,
+      "updated": 1791532070197
+    },
+    {
+      "id": "mv0nxsc51025r130",
+      "word": "おばさん",
+      "meaning": "아주머니/이모/고모",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070198,
+      "updated": 1791532070198
+    },
+    {
+      "id": "mv0nxsc5sdxhz131",
+      "word": "私",
+      "meaning": "저/나",
+      "note": "わたし",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070199,
+      "updated": 1791532070199
+    },
+    {
+      "id": "mv0nxsc52l8c5132",
+      "word": "あなた",
+      "meaning": "당신",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070200,
+      "updated": 1791532070200
+    },
+    {
+      "id": "mv0nxsc581wog133",
+      "word": "彼",
+      "meaning": "그(남자)",
+      "note": "かれ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070201,
+      "updated": 1791532070201
+    },
+    {
+      "id": "mv0nxsc5rgyet134",
+      "word": "彼女",
+      "meaning": "그녀",
+      "note": "かのじょ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070202,
+      "updated": 1791532070202
+    },
+    {
+      "id": "mv0nxsc51a0hr135",
+      "word": "みなさん",
+      "meaning": "여러분",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070203,
+      "updated": 1791532070203
+    },
+    {
+      "id": "mv0nxsc5199k8136",
+      "word": "人",
+      "meaning": "사람",
+      "note": "ひと",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070204,
+      "updated": 1791532070204
+    },
+    {
+      "id": "mv0nxsc5l4wdo137",
+      "word": "男の人",
+      "meaning": "남자",
+      "note": "おとこのひと",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070205,
+      "updated": 1791532070205
+    },
+    {
+      "id": "mv0nxsc5649dc138",
+      "word": "女の人",
+      "meaning": "여자",
+      "note": "おんなのひと",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070206,
+      "updated": 1791532070206
+    },
+    {
+      "id": "mv0nxsc5ztwaw139",
+      "word": "子供",
+      "meaning": "어린이",
+      "note": "こども",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070207,
+      "updated": 1791532070207
+    },
+    {
+      "id": "mv0nxsc5vc4v5140",
+      "word": "友達",
+      "meaning": "친구",
+      "note": "ともだち",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070208,
+      "updated": 1791532070208
+    },
+    {
+      "id": "mv0nxsc5zo0gz141",
+      "word": "名前",
+      "meaning": "이름",
+      "note": "なまえ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070209,
+      "updated": 1791532070209
+    },
+    {
+      "id": "mv0nxsc5hkrhy142",
+      "word": "頭",
+      "meaning": "머리",
+      "note": "あたま",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070210,
+      "updated": 1791532070210
+    },
+    {
+      "id": "mv0nxsc5w8854143",
+      "word": "顔",
+      "meaning": "얼굴",
+      "note": "かお",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070211,
+      "updated": 1791532070211
+    },
+    {
+      "id": "mv0nxsc5igyuj144",
+      "word": "目",
+      "meaning": "눈",
+      "note": "め",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070212,
+      "updated": 1791532070212
+    },
+    {
+      "id": "mv0nxsc5rcb0p145",
+      "word": "耳",
+      "meaning": "귀",
+      "note": "みみ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070213,
+      "updated": 1791532070213
+    },
+    {
+      "id": "mv0nxsc51h37n146",
+      "word": "口",
+      "meaning": "입",
+      "note": "くち",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070214,
+      "updated": 1791532070214
+    },
+    {
+      "id": "mv0nxsc5hexp7147",
+      "word": "手",
+      "meaning": "손",
+      "note": "て",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070215,
+      "updated": 1791532070215
+    },
+    {
+      "id": "mv0nxsc54ao5t148",
+      "word": "足",
+      "meaning": "다리/발",
+      "note": "あし",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070216,
+      "updated": 1791532070216
+    },
+    {
+      "id": "mv0nxsc5l50an149",
+      "word": "体",
+      "meaning": "몸",
+      "note": "からだ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070217,
+      "updated": 1791532070217
+    },
+    {
+      "id": "mv0nxsc5xf8f6150",
+      "word": "元気",
+      "meaning": "건강함/기운",
+      "note": "げんき",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070218,
+      "updated": 1791532070218
+    },
+    {
+      "id": "mv0nxsc551og1151",
+      "word": "学校",
+      "meaning": "학교",
+      "note": "がっこう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070219,
+      "updated": 1791532070219
+    },
+    {
+      "id": "mv0nxsc51fu2e152",
+      "word": "会社",
+      "meaning": "회사",
+      "note": "かいしゃ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070220,
+      "updated": 1791532070220
+    },
+    {
+      "id": "mv0nxsc5cbgdv153",
+      "word": "家",
+      "meaning": "집",
+      "note": "いえ/うち",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070221,
+      "updated": 1791532070221
+    },
+    {
+      "id": "mv0nxsc5j4qmn154",
+      "word": "駅",
+      "meaning": "역",
+      "note": "えき",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070222,
+      "updated": 1791532070222
+    },
+    {
+      "id": "mv0nxsc523isg155",
+      "word": "病院",
+      "meaning": "병원",
+      "note": "びょういん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070223,
+      "updated": 1791532070223
+    },
+    {
+      "id": "mv0nxsc5xzg7w156",
+      "word": "銀行",
+      "meaning": "은행",
+      "note": "ぎんこう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070224,
+      "updated": 1791532070224
+    },
+    {
+      "id": "mv0nxsc5en3i1157",
+      "word": "郵便局",
+      "meaning": "우체국",
+      "note": "ゆうびんきょく",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070225,
+      "updated": 1791532070225
+    },
+    {
+      "id": "mv0nxsc5p30gm158",
+      "word": "図書館",
+      "meaning": "도서관",
+      "note": "としょかん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070226,
+      "updated": 1791532070226
+    },
+    {
+      "id": "mv0nxsc5vs664159",
+      "word": "店",
+      "meaning": "가게",
+      "note": "みせ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070227,
+      "updated": 1791532070227
+    },
+    {
+      "id": "mv0nxsc5xhf77160",
+      "word": "デパート",
+      "meaning": "백화점",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070228,
+      "updated": 1791532070228
+    },
+    {
+      "id": "mv0nxsc5f0g27161",
+      "word": "スーパー",
+      "meaning": "슈퍼마켓",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070229,
+      "updated": 1791532070229
+    },
+    {
+      "id": "mv0nxsc52zrvq162",
+      "word": "レストラン",
+      "meaning": "레스토랑",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070230,
+      "updated": 1791532070230
+    },
+    {
+      "id": "mv0nxsc5uhius163",
+      "word": "喫茶店",
+      "meaning": "찻집/카페",
+      "note": "きっさてん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070231,
+      "updated": 1791532070231
+    },
+    {
+      "id": "mv0nxsc5q63uw164",
+      "word": "公園",
+      "meaning": "공원",
+      "note": "こうえん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070232,
+      "updated": 1791532070232
+    },
+    {
+      "id": "mv0nxsc5ekbbv165",
+      "word": "大学",
+      "meaning": "대학교",
+      "note": "だいがく",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070233,
+      "updated": 1791532070233
+    },
+    {
+      "id": "mv0nxsc5otevt166",
+      "word": "空港",
+      "meaning": "공항",
+      "note": "くうこう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070234,
+      "updated": 1791532070234
+    },
+    {
+      "id": "mv0nxsc56jngl167",
+      "word": "ホテル",
+      "meaning": "호텔",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070235,
+      "updated": 1791532070235
+    },
+    {
+      "id": "mv0nxsc5ha02v168",
+      "word": "トイレ",
+      "meaning": "화장실",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070236,
+      "updated": 1791532070236
+    },
+    {
+      "id": "mv0nxsc50lzct169",
+      "word": "入り口",
+      "meaning": "입구",
+      "note": "いりぐち",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070237,
+      "updated": 1791532070237
+    },
+    {
+      "id": "mv0nxsc55mf0z170",
+      "word": "出口",
+      "meaning": "출구",
+      "note": "でぐち",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070238,
+      "updated": 1791532070238
+    },
+    {
+      "id": "mv0nxsc5sbp0i171",
+      "word": "部屋",
+      "meaning": "방",
+      "note": "へや",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070239,
+      "updated": 1791532070239
+    },
+    {
+      "id": "mv0nxsc55u8x2172",
+      "word": "庭",
+      "meaning": "정원",
+      "note": "にわ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070240,
+      "updated": 1791532070240
+    },
+    {
+      "id": "mv0nxsc5c5tkt173",
+      "word": "国",
+      "meaning": "나라",
+      "note": "くに",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070241,
+      "updated": 1791532070241
+    },
+    {
+      "id": "mv0nxsc5q4hwx174",
+      "word": "天気",
+      "meaning": "날씨",
+      "note": "てんき",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070242,
+      "updated": 1791532070242
+    },
+    {
+      "id": "mv0nxsc5mfa7n175",
+      "word": "雨",
+      "meaning": "비",
+      "note": "あめ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070243,
+      "updated": 1791532070243
+    },
+    {
+      "id": "mv0nxsc5ykhj0176",
+      "word": "雪",
+      "meaning": "눈",
+      "note": "ゆき",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070244,
+      "updated": 1791532070244
+    },
+    {
+      "id": "mv0nxsc5iihij177",
+      "word": "風",
+      "meaning": "바람",
+      "note": "かぜ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070245,
+      "updated": 1791532070245
+    },
+    {
+      "id": "mv0nxsc5xi0yc178",
+      "word": "空",
+      "meaning": "하늘",
+      "note": "そら",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070246,
+      "updated": 1791532070246
+    },
+    {
+      "id": "mv0nxsc5vnho2179",
+      "word": "山",
+      "meaning": "산",
+      "note": "やま",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070247,
+      "updated": 1791532070247
+    },
+    {
+      "id": "mv0nxsc5cin2y180",
+      "word": "川",
+      "meaning": "강",
+      "note": "かわ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070248,
+      "updated": 1791532070248
+    },
+    {
+      "id": "mv0nxsc5mtdl4181",
+      "word": "海",
+      "meaning": "바다",
+      "note": "うみ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070249,
+      "updated": 1791532070249
+    },
+    {
+      "id": "mv0nxsc5loo4y182",
+      "word": "木",
+      "meaning": "나무",
+      "note": "き",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070250,
+      "updated": 1791532070250
+    },
+    {
+      "id": "mv0nxsc5gy6qy183",
+      "word": "花",
+      "meaning": "꽃",
+      "note": "はな",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070251,
+      "updated": 1791532070251
+    },
+    {
+      "id": "mv0nxsc5n2rf9184",
+      "word": "水",
+      "meaning": "물",
+      "note": "みず",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070252,
+      "updated": 1791532070252
+    },
+    {
+      "id": "mv0nxsc50js5k185",
+      "word": "火",
+      "meaning": "불",
+      "note": "ひ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070253,
+      "updated": 1791532070253
+    },
+    {
+      "id": "mv0nxsc5zodjh186",
+      "word": "春",
+      "meaning": "봄",
+      "note": "はる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070254,
+      "updated": 1791532070254
+    },
+    {
+      "id": "mv0nxsc5oavts187",
+      "word": "夏",
+      "meaning": "여름",
+      "note": "なつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070255,
+      "updated": 1791532070255
+    },
+    {
+      "id": "mv0nxsc5z45qa188",
+      "word": "秋",
+      "meaning": "가을",
+      "note": "あき",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070256,
+      "updated": 1791532070256
+    },
+    {
+      "id": "mv0nxsc5kv7ee189",
+      "word": "冬",
+      "meaning": "겨울",
+      "note": "ふゆ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070257,
+      "updated": 1791532070257
+    },
+    {
+      "id": "mv0nxsc5shnzq190",
+      "word": "犬",
+      "meaning": "개",
+      "note": "いぬ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070258,
+      "updated": 1791532070258
+    },
+    {
+      "id": "mv0nxsc5zhqzr191",
+      "word": "猫",
+      "meaning": "고양이",
+      "note": "ねこ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070259,
+      "updated": 1791532070259
+    },
+    {
+      "id": "mv0nxsc5kqd11192",
+      "word": "鳥",
+      "meaning": "새",
+      "note": "とり",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070260,
+      "updated": 1791532070260
+    },
+    {
+      "id": "mv0nxsc5duozz193",
+      "word": "魚",
+      "meaning": "물고기",
+      "note": "さかな",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070261,
+      "updated": 1791532070261
+    },
+    {
+      "id": "mv0nxsc5q6l5y194",
+      "word": "ご飯",
+      "meaning": "밥",
+      "note": "ごはん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070262,
+      "updated": 1791532070262
+    },
+    {
+      "id": "mv0nxsc57uwyt195",
+      "word": "パン",
+      "meaning": "빵",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070263,
+      "updated": 1791532070263
+    },
+    {
+      "id": "mv0nxsc5a89ff196",
+      "word": "水",
+      "meaning": "물",
+      "note": "みず",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070264,
+      "updated": 1791532070264
+    },
+    {
+      "id": "mv0nxsc5pvgps197",
+      "word": "お茶",
+      "meaning": "차",
+      "note": "おちゃ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070265,
+      "updated": 1791532070265
+    },
+    {
+      "id": "mv0nxsc5nrj14198",
+      "word": "コーヒー",
+      "meaning": "커피",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070266,
+      "updated": 1791532070266
+    },
+    {
+      "id": "mv0nxsc5p5tu3199",
+      "word": "牛乳",
+      "meaning": "우유",
+      "note": "ぎゅうにゅう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070267,
+      "updated": 1791532070267
+    },
+    {
+      "id": "mv0nxsc58agwi200",
+      "word": "肉",
+      "meaning": "고기",
+      "note": "にく",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070268,
+      "updated": 1791532070268
+    },
+    {
+      "id": "mv0nxsc5xkbrx201",
+      "word": "魚",
+      "meaning": "생선",
+      "note": "さかな",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070269,
+      "updated": 1791532070269
+    },
+    {
+      "id": "mv0nxsc5snu0r202",
+      "word": "野菜",
+      "meaning": "채소",
+      "note": "やさい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070270,
+      "updated": 1791532070270
+    },
+    {
+      "id": "mv0nxsc5g8vgo203",
+      "word": "果物",
+      "meaning": "과일",
+      "note": "くだもの",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070271,
+      "updated": 1791532070271
+    },
+    {
+      "id": "mv0nxsc52jal3204",
+      "word": "卵",
+      "meaning": "계란",
+      "note": "たまご",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070272,
+      "updated": 1791532070272
+    },
+    {
+      "id": "mv0nxsc5voj19205",
+      "word": "お菓子",
+      "meaning": "과자",
+      "note": "おかし",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070273,
+      "updated": 1791532070273
+    },
+    {
+      "id": "mv0nxsc5tdgqv206",
+      "word": "料理",
+      "meaning": "요리",
+      "note": "りょうり",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070274,
+      "updated": 1791532070274
+    },
+    {
+      "id": "mv0nxsc5e2r0l207",
+      "word": "朝ご飯",
+      "meaning": "아침밥",
+      "note": "あさごはん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070275,
+      "updated": 1791532070275
+    },
+    {
+      "id": "mv0nxsc5t52ko208",
+      "word": "昼ご飯",
+      "meaning": "점심밥",
+      "note": "ひるごはん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070276,
+      "updated": 1791532070276
+    },
+    {
+      "id": "mv0nxsc56z4gu209",
+      "word": "晩ご飯",
+      "meaning": "저녁밥",
+      "note": "ばんごはん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070277,
+      "updated": 1791532070277
+    },
+    {
+      "id": "mv0nxsc5907yg210",
+      "word": "先生",
+      "meaning": "선생님",
+      "note": "せんせい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070278,
+      "updated": 1791532070278
+    },
+    {
+      "id": "mv0nxsc5qd0hz211",
+      "word": "学生",
+      "meaning": "학생",
+      "note": "がくせい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070279,
+      "updated": 1791532070279
+    },
+    {
+      "id": "mv0nxsc5wfuxs212",
+      "word": "生徒",
+      "meaning": "(중고교)학생",
+      "note": "せいと",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070280,
+      "updated": 1791532070280
+    },
+    {
+      "id": "mv0nxsc5hpnvj213",
+      "word": "会社員",
+      "meaning": "회사원",
+      "note": "かいしゃいん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070281,
+      "updated": 1791532070281
+    },
+    {
+      "id": "mv0nxsc52mnkw214",
+      "word": "医者",
+      "meaning": "의사",
+      "note": "いしゃ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070282,
+      "updated": 1791532070282
+    },
+    {
+      "id": "mv0nxsc550yc6215",
+      "word": "本",
+      "meaning": "책",
+      "note": "ほん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070283,
+      "updated": 1791532070283
+    },
+    {
+      "id": "mv0nxsc5ozfd1216",
+      "word": "ノート",
+      "meaning": "노트",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070284,
+      "updated": 1791532070284
+    },
+    {
+      "id": "mv0nxsc5p9yhr217",
+      "word": "鉛筆",
+      "meaning": "연필",
+      "note": "えんぴつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070285,
+      "updated": 1791532070285
+    },
+    {
+      "id": "mv0nxsc5exl4w218",
+      "word": "ペン",
+      "meaning": "펜",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070286,
+      "updated": 1791532070286
+    },
+    {
+      "id": "mv0nxsc5dfbzv219",
+      "word": "かばん",
+      "meaning": "가방",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070287,
+      "updated": 1791532070287
+    },
+    {
+      "id": "mv0nxsc5fwa6c220",
+      "word": "机",
+      "meaning": "책상",
+      "note": "つくえ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070288,
+      "updated": 1791532070288
+    },
+    {
+      "id": "mv0nxsc56zdiy221",
+      "word": "いす",
+      "meaning": "의자",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070289,
+      "updated": 1791532070289
+    },
+    {
+      "id": "mv0nxsc5kufb9222",
+      "word": "紙",
+      "meaning": "종이",
+      "note": "かみ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070290,
+      "updated": 1791532070290
+    },
+    {
+      "id": "mv0nxsc52kwva223",
+      "word": "辞書",
+      "meaning": "사전",
+      "note": "じしょ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070291,
+      "updated": 1791532070291
+    },
+    {
+      "id": "mv0nxsc5o4ilq224",
+      "word": "宿題",
+      "meaning": "숙제",
+      "note": "しゅくだい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070292,
+      "updated": 1791532070292
+    },
+    {
+      "id": "mv0nxsc5z56ep225",
+      "word": "試験",
+      "meaning": "시험",
+      "note": "しけん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070293,
+      "updated": 1791532070293
+    },
+    {
+      "id": "mv0nxsc5c85u2226",
+      "word": "授業",
+      "meaning": "수업",
+      "note": "じゅぎょう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070294,
+      "updated": 1791532070294
+    },
+    {
+      "id": "mv0nxsc5nr98t227",
+      "word": "勉強",
+      "meaning": "공부",
+      "note": "べんきょう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070295,
+      "updated": 1791532070295
+    },
+    {
+      "id": "mv0nxsc5indlk228",
+      "word": "言葉",
+      "meaning": "말/단어",
+      "note": "ことば",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070296,
+      "updated": 1791532070296
+    },
+    {
+      "id": "mv0nxsc5ifqto229",
+      "word": "新聞",
+      "meaning": "신문",
+      "note": "しんぶん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070297,
+      "updated": 1791532070297
+    },
+    {
+      "id": "mv0nxsc521h67230",
+      "word": "雑誌",
+      "meaning": "잡지",
+      "note": "ざっし",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070298,
+      "updated": 1791532070298
+    },
+    {
+      "id": "mv0nxsc55tvl3231",
+      "word": "写真",
+      "meaning": "사진",
+      "note": "しゃしん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070299,
+      "updated": 1791532070299
+    },
+    {
+      "id": "mv0nxsc56tfrz232",
+      "word": "カメラ",
+      "meaning": "카메라",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070300,
+      "updated": 1791532070300
+    },
+    {
+      "id": "mv0nxsc5itmjf233",
+      "word": "テレビ",
+      "meaning": "텔레비전",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070301,
+      "updated": 1791532070301
+    },
+    {
+      "id": "mv0nxsc58bwdg234",
+      "word": "ラジオ",
+      "meaning": "라디오",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070302,
+      "updated": 1791532070302
+    },
+    {
+      "id": "mv0nxsc59vg4m235",
+      "word": "電話",
+      "meaning": "전화",
+      "note": "でんわ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070303,
+      "updated": 1791532070303
+    },
+    {
+      "id": "mv0nxsc5jyuth236",
+      "word": "パソコン",
+      "meaning": "컴퓨터",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070304,
+      "updated": 1791532070304
+    },
+    {
+      "id": "mv0nxsc5wwill237",
+      "word": "時計",
+      "meaning": "시계",
+      "note": "とけい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070305,
+      "updated": 1791532070305
+    },
+    {
+      "id": "mv0nxsc5z8ich238",
+      "word": "お金",
+      "meaning": "돈",
+      "note": "おかね",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070306,
+      "updated": 1791532070306
+    },
+    {
+      "id": "mv0nxsc5amj5n239",
+      "word": "切符",
+      "meaning": "표",
+      "note": "きっぷ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070307,
+      "updated": 1791532070307
+    },
+    {
+      "id": "mv0nxsc55wn2p240",
+      "word": "傘",
+      "meaning": "우산",
+      "note": "かさ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070308,
+      "updated": 1791532070308
+    },
+    {
+      "id": "mv0nxsc5b2k3d241",
+      "word": "靴",
+      "meaning": "신발",
+      "note": "くつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070309,
+      "updated": 1791532070309
+    },
+    {
+      "id": "mv0nxsc5ilbji242",
+      "word": "服",
+      "meaning": "옷",
+      "note": "ふく",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070310,
+      "updated": 1791532070310
+    },
+    {
+      "id": "mv0nxsc5705vk243",
+      "word": "鍵",
+      "meaning": "열쇠",
+      "note": "かぎ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070311,
+      "updated": 1791532070311
+    },
+    {
+      "id": "mv0nxsc5e9bk2244",
+      "word": "電車",
+      "meaning": "전철",
+      "note": "でんしゃ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070312,
+      "updated": 1791532070312
+    },
+    {
+      "id": "mv0nxsc55hst2245",
+      "word": "車",
+      "meaning": "자동차",
+      "note": "くるま",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070313,
+      "updated": 1791532070313
+    },
+    {
+      "id": "mv0nxsc5ep81y246",
+      "word": "バス",
+      "meaning": "버스",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070314,
+      "updated": 1791532070314
+    },
+    {
+      "id": "mv0nxsc5f612m247",
+      "word": "自転車",
+      "meaning": "자전거",
+      "note": "じてんしゃ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070315,
+      "updated": 1791532070315
+    },
+    {
+      "id": "mv0nxsc5v96xc248",
+      "word": "飛行機",
+      "meaning": "비행기",
+      "note": "ひこうき",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070316,
+      "updated": 1791532070316
+    },
+    {
+      "id": "mv0nxsc5ssote249",
+      "word": "タクシー",
+      "meaning": "택시",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070317,
+      "updated": 1791532070317
+    },
+    {
+      "id": "mv0nxsc5llqgk250",
+      "word": "道",
+      "meaning": "길",
+      "note": "みち",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070318,
+      "updated": 1791532070318
+    },
+    {
+      "id": "mv0nxsc51hisa251",
+      "word": "地下鉄",
+      "meaning": "지하철",
+      "note": "ちかてつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070319,
+      "updated": 1791532070319
+    },
+    {
+      "id": "mv0nxsc5sh2kc252",
+      "word": "色",
+      "meaning": "색",
+      "note": "いろ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070320,
+      "updated": 1791532070320
+    },
+    {
+      "id": "mv0nxsc5zzufg253",
+      "word": "赤",
+      "meaning": "빨강",
+      "note": "あか",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070321,
+      "updated": 1791532070321
+    },
+    {
+      "id": "mv0nxsc5axnce254",
+      "word": "青",
+      "meaning": "파랑",
+      "note": "あお",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070322,
+      "updated": 1791532070322
+    },
+    {
+      "id": "mv0nxsc5u8c3s255",
+      "word": "白",
+      "meaning": "흰색",
+      "note": "しろ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070323,
+      "updated": 1791532070323
+    },
+    {
+      "id": "mv0nxsc5jeily256",
+      "word": "黒",
+      "meaning": "검정",
+      "note": "くろ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070324,
+      "updated": 1791532070324
+    },
+    {
+      "id": "mv0nxsc51ev9q257",
+      "word": "黄色",
+      "meaning": "노랑",
+      "note": "きいろ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070325,
+      "updated": 1791532070325
+    },
+    {
+      "id": "mv0nxsc5xe29a258",
+      "word": "行く",
+      "meaning": "가다",
+      "note": "いく",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070326,
+      "updated": 1791532070326
+    },
+    {
+      "id": "mv0nxsc5vn1dc259",
+      "word": "来る",
+      "meaning": "오다",
+      "note": "くる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070327,
+      "updated": 1791532070327
+    },
+    {
+      "id": "mv0nxsc5zqn7v260",
+      "word": "帰る",
+      "meaning": "돌아가다",
+      "note": "かえる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070328,
+      "updated": 1791532070328
+    },
+    {
+      "id": "mv0nxsc5aujqx261",
+      "word": "会う",
+      "meaning": "만나다",
+      "note": "あう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070329,
+      "updated": 1791532070329
+    },
+    {
+      "id": "mv0nxsc54atkg262",
+      "word": "聞く",
+      "meaning": "듣다/묻다",
+      "note": "きく",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070330,
+      "updated": 1791532070330
+    },
+    {
+      "id": "mv0nxsc5igjc8263",
+      "word": "話す",
+      "meaning": "말하다",
+      "note": "はなす",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070331,
+      "updated": 1791532070331
+    },
+    {
+      "id": "mv0nxsc5p9gom264",
+      "word": "読む",
+      "meaning": "읽다",
+      "note": "よむ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070332,
+      "updated": 1791532070332
+    },
+    {
+      "id": "mv0nxsc5dau4y265",
+      "word": "書く",
+      "meaning": "쓰다",
+      "note": "かく",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070333,
+      "updated": 1791532070333
+    },
+    {
+      "id": "mv0nxsc5p7ome266",
+      "word": "買う",
+      "meaning": "사다",
+      "note": "かう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070334,
+      "updated": 1791532070334
+    },
+    {
+      "id": "mv0nxsc59637t267",
+      "word": "売る",
+      "meaning": "팔다",
+      "note": "うる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070335,
+      "updated": 1791532070335
+    },
+    {
+      "id": "mv0nxsc5jcmlm268",
+      "word": "待つ",
+      "meaning": "기다리다",
+      "note": "まつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070336,
+      "updated": 1791532070336
+    },
+    {
+      "id": "mv0nxsc5o6xv0269",
+      "word": "立つ",
+      "meaning": "서다",
+      "note": "たつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070337,
+      "updated": 1791532070337
+    },
+    {
+      "id": "mv0nxsc5gjgst270",
+      "word": "座る",
+      "meaning": "앉다",
+      "note": "すわる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070338,
+      "updated": 1791532070338
+    },
+    {
+      "id": "mv0nxsc5gvwbf271",
+      "word": "歩く",
+      "meaning": "걷다",
+      "note": "あるく",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070339,
+      "updated": 1791532070339
+    },
+    {
+      "id": "mv0nxsc5ycdau272",
+      "word": "走る",
+      "meaning": "달리다",
+      "note": "はしる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070340,
+      "updated": 1791532070340
+    },
+    {
+      "id": "mv0nxsc5bnbof273",
+      "word": "休む",
+      "meaning": "쉬다",
+      "note": "やすむ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070341,
+      "updated": 1791532070341
+    },
+    {
+      "id": "mv0nxsc5cnca8274",
+      "word": "働く",
+      "meaning": "일하다",
+      "note": "はたらく",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070342,
+      "updated": 1791532070342
+    },
+    {
+      "id": "mv0nxsc5hcj6k275",
+      "word": "使う",
+      "meaning": "사용하다",
+      "note": "つかう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070343,
+      "updated": 1791532070343
+    },
+    {
+      "id": "mv0nxsc5xu8lz276",
+      "word": "作る",
+      "meaning": "만들다",
+      "note": "つくる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070344,
+      "updated": 1791532070344
+    },
+    {
+      "id": "mv0nxsc5afjpp277",
+      "word": "持つ",
+      "meaning": "가지다/들다",
+      "note": "もつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070345,
+      "updated": 1791532070345
+    },
+    {
+      "id": "mv0nxsc5jomj2278",
+      "word": "知る",
+      "meaning": "알다",
+      "note": "しる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070346,
+      "updated": 1791532070346
+    },
+    {
+      "id": "mv0nxsc5cqkpp279",
+      "word": "分かる",
+      "meaning": "이해하다",
+      "note": "わかる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070347,
+      "updated": 1791532070347
+    },
+    {
+      "id": "mv0nxsc54bvd0280",
+      "word": "撮る",
+      "meaning": "(사진)찍다",
+      "note": "とる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070348,
+      "updated": 1791532070348
+    },
+    {
+      "id": "mv0nxsc5t97sc281",
+      "word": "洗う",
+      "meaning": "씻다",
+      "note": "あらう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070349,
+      "updated": 1791532070349
+    },
+    {
+      "id": "mv0nxsc5nm9a8282",
+      "word": "習う",
+      "meaning": "배우다",
+      "note": "ならう",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070350,
+      "updated": 1791532070350
+    },
+    {
+      "id": "mv0nxsc5zkweb283",
+      "word": "泳ぐ",
+      "meaning": "수영하다",
+      "note": "およぐ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070351,
+      "updated": 1791532070351
+    },
+    {
+      "id": "mv0nxsc5idkbx284",
+      "word": "急ぐ",
+      "meaning": "서두르다",
+      "note": "いそぐ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070352,
+      "updated": 1791532070352
+    },
+    {
+      "id": "mv0nxsc5kafwy285",
+      "word": "死ぬ",
+      "meaning": "죽다",
+      "note": "しぬ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070353,
+      "updated": 1791532070353
+    },
+    {
+      "id": "mv0nxsc5f46gr286",
+      "word": "飲む",
+      "meaning": "마시다",
+      "note": "のむ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070354,
+      "updated": 1791532070354
+    },
+    {
+      "id": "mv0nxsc59o3rn287",
+      "word": "休む",
+      "meaning": "쉬다",
+      "note": "やすむ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070355,
+      "updated": 1791532070355
+    },
+    {
+      "id": "mv0nxsc5rppyl288",
+      "word": "送る",
+      "meaning": "보내다",
+      "note": "おくる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070356,
+      "updated": 1791532070356
+    },
+    {
+      "id": "mv0nxsc5ucfya289",
+      "word": "降る",
+      "meaning": "(비/눈)내리다",
+      "note": "ふる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070357,
+      "updated": 1791532070357
+    },
+    {
+      "id": "mv0nxsc52lsts290",
+      "word": "なる",
+      "meaning": "되다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070358,
+      "updated": 1791532070358
+    },
+    {
+      "id": "mv0nxsc5cef8x291",
+      "word": "入る",
+      "meaning": "들어가다",
+      "note": "はいる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070359,
+      "updated": 1791532070359
+    },
+    {
+      "id": "mv0nxsc5ol8c5292",
+      "word": "切る",
+      "meaning": "자르다",
+      "note": "きる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070360,
+      "updated": 1791532070360
+    },
+    {
+      "id": "mv0nxsc59y4kx293",
+      "word": "乗る",
+      "meaning": "타다",
+      "note": "のる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070361,
+      "updated": 1791532070361
+    },
+    {
+      "id": "mv0nxsc5jrk03294",
+      "word": "かかる",
+      "meaning": "(시간/돈)걸리다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070362,
+      "updated": 1791532070362
+    },
+    {
+      "id": "mv0nxsc5if9ch295",
+      "word": "食べる",
+      "meaning": "먹다",
+      "note": "たべる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070363,
+      "updated": 1791532070363
+    },
+    {
+      "id": "mv0nxsc5z0gn8296",
+      "word": "見る",
+      "meaning": "보다",
+      "note": "みる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070364,
+      "updated": 1791532070364
+    },
+    {
+      "id": "mv0nxsc5anywp297",
+      "word": "起きる",
+      "meaning": "일어나다",
+      "note": "おきる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070365,
+      "updated": 1791532070365
+    },
+    {
+      "id": "mv0nxsc5f302e298",
+      "word": "寝る",
+      "meaning": "자다",
+      "note": "ねる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070366,
+      "updated": 1791532070366
+    },
+    {
+      "id": "mv0nxsc5x059t299",
+      "word": "出る",
+      "meaning": "나가다",
+      "note": "でる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070367,
+      "updated": 1791532070367
+    },
+    {
+      "id": "mv0nxsc5vq4y5300",
+      "word": "開ける",
+      "meaning": "열다",
+      "note": "あける",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070368,
+      "updated": 1791532070368
+    },
+    {
+      "id": "mv0nxsc5ffdj1301",
+      "word": "閉める",
+      "meaning": "닫다",
+      "note": "しめる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070369,
+      "updated": 1791532070369
+    },
+    {
+      "id": "mv0nxsc5wn86l302",
+      "word": "教える",
+      "meaning": "가르치다",
+      "note": "おしえる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070370,
+      "updated": 1791532070370
+    },
+    {
+      "id": "mv0nxsc53tphe303",
+      "word": "覚える",
+      "meaning": "외우다",
+      "note": "おぼえる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070371,
+      "updated": 1791532070371
+    },
+    {
+      "id": "mv0nxsc5udw3y304",
+      "word": "忘れる",
+      "meaning": "잊다",
+      "note": "わすれる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070372,
+      "updated": 1791532070372
+    },
+    {
+      "id": "mv0nxsc58lf2t305",
+      "word": "借りる",
+      "meaning": "빌리다",
+      "note": "かりる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070373,
+      "updated": 1791532070373
+    },
+    {
+      "id": "mv0nxsc5fnhyv306",
+      "word": "浴びる",
+      "meaning": "(샤워)하다",
+      "note": "あびる",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070374,
+      "updated": 1791532070374
+    },
+    {
+      "id": "mv0nxsc5vkveh307",
+      "word": "できる",
+      "meaning": "할 수 있다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070375,
+      "updated": 1791532070375
+    },
+    {
+      "id": "mv0nxsc5hzi64308",
+      "word": "する",
+      "meaning": "하다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070376,
+      "updated": 1791532070376
+    },
+    {
+      "id": "mv0nxsc58zcme309",
+      "word": "勉強する",
+      "meaning": "공부하다",
+      "note": "べんきょうする",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070377,
+      "updated": 1791532070377
+    },
+    {
+      "id": "mv0nxsc5xqwto310",
+      "word": "練習する",
+      "meaning": "연습하다",
+      "note": "れんしゅうする",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070378,
+      "updated": 1791532070378
+    },
+    {
+      "id": "mv0nxsc5yspgl311",
+      "word": "散歩する",
+      "meaning": "산책하다",
+      "note": "さんぽする",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070379,
+      "updated": 1791532070379
+    },
+    {
+      "id": "mv0nxsc5195lh312",
+      "word": "結婚する",
+      "meaning": "결혼하다",
+      "note": "けっこんする",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070380,
+      "updated": 1791532070380
+    },
+    {
+      "id": "mv0nxsc5mfx0i313",
+      "word": "電話する",
+      "meaning": "전화하다",
+      "note": "でんわする",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070381,
+      "updated": 1791532070381
+    },
+    {
+      "id": "mv0nxsc5wpnn8314",
+      "word": "質問する",
+      "meaning": "질문하다",
+      "note": "しつもんする",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070382,
+      "updated": 1791532070382
+    },
+    {
+      "id": "mv0nxsc5k6oyb315",
+      "word": "大きい",
+      "meaning": "크다",
+      "note": "おおきい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070383,
+      "updated": 1791532070383
+    },
+    {
+      "id": "mv0nxsc5a60a9316",
+      "word": "小さい",
+      "meaning": "작다",
+      "note": "ちいさい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070384,
+      "updated": 1791532070384
+    },
+    {
+      "id": "mv0nxsc59gqdk317",
+      "word": "新しい",
+      "meaning": "새롭다",
+      "note": "あたらしい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070385,
+      "updated": 1791532070385
+    },
+    {
+      "id": "mv0nxsc5m15km318",
+      "word": "古い",
+      "meaning": "낡다/오래되다",
+      "note": "ふるい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070386,
+      "updated": 1791532070386
+    },
+    {
+      "id": "mv0nxsc5ki37j319",
+      "word": "良い/いい",
+      "meaning": "좋다",
+      "note": "よい/いい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070387,
+      "updated": 1791532070387
+    },
+    {
+      "id": "mv0nxsc5hg0mh320",
+      "word": "悪い",
+      "meaning": "나쁘다",
+      "note": "わるい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070388,
+      "updated": 1791532070388
+    },
+    {
+      "id": "mv0nxsc5mtqbj321",
+      "word": "高い",
+      "meaning": "비싸다/높다",
+      "note": "たかい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070389,
+      "updated": 1791532070389
+    },
+    {
+      "id": "mv0nxsc5nd3te322",
+      "word": "安い",
+      "meaning": "싸다",
+      "note": "やすい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070390,
+      "updated": 1791532070390
+    },
+    {
+      "id": "mv0nxsc5wrcnv323",
+      "word": "低い",
+      "meaning": "낮다",
+      "note": "ひくい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070391,
+      "updated": 1791532070391
+    },
+    {
+      "id": "mv0nxsc5f7ayz324",
+      "word": "暑い",
+      "meaning": "덥다",
+      "note": "あつい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070392,
+      "updated": 1791532070392
+    },
+    {
+      "id": "mv0nxsc5g5kgk325",
+      "word": "寒い",
+      "meaning": "춥다",
+      "note": "さむい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070393,
+      "updated": 1791532070393
+    },
+    {
+      "id": "mv0nxsc5x4tn0326",
+      "word": "熱い",
+      "meaning": "뜨겁다",
+      "note": "あつい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070394,
+      "updated": 1791532070394
+    },
+    {
+      "id": "mv0nxsc541rbv327",
+      "word": "冷たい",
+      "meaning": "차갑다",
+      "note": "つめたい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070395,
+      "updated": 1791532070395
+    },
+    {
+      "id": "mv0nxsc5ukgm7328",
+      "word": "暖かい",
+      "meaning": "따뜻하다",
+      "note": "あたたかい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070396,
+      "updated": 1791532070396
+    },
+    {
+      "id": "mv0nxsc53uzu6329",
+      "word": "涼しい",
+      "meaning": "시원하다",
+      "note": "すずしい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070397,
+      "updated": 1791532070397
+    },
+    {
+      "id": "mv0nxsc560bab330",
+      "word": "忙しい",
+      "meaning": "바쁘다",
+      "note": "いそがしい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070398,
+      "updated": 1791532070398
+    },
+    {
+      "id": "mv0nxsc53w0dq331",
+      "word": "楽しい",
+      "meaning": "즐겁다",
+      "note": "たのしい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070399,
+      "updated": 1791532070399
+    },
+    {
+      "id": "mv0nxsc5jyr71332",
+      "word": "面白い",
+      "meaning": "재미있다",
+      "note": "おもしろい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070400,
+      "updated": 1791532070400
+    },
+    {
+      "id": "mv0nxsc5bgnts333",
+      "word": "つまらない",
+      "meaning": "재미없다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070401,
+      "updated": 1791532070401
+    },
+    {
+      "id": "mv0nxsc5sgnec334",
+      "word": "難しい",
+      "meaning": "어렵다",
+      "note": "むずかしい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070402,
+      "updated": 1791532070402
+    },
+    {
+      "id": "mv0nxsc5gzivd335",
+      "word": "易しい",
+      "meaning": "쉽다",
+      "note": "やさしい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070403,
+      "updated": 1791532070403
+    },
+    {
+      "id": "mv0nxsc540bvu336",
+      "word": "多い",
+      "meaning": "많다",
+      "note": "おおい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070404,
+      "updated": 1791532070404
+    },
+    {
+      "id": "mv0nxsc5cgpmj337",
+      "word": "少ない",
+      "meaning": "적다",
+      "note": "すくない",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070405,
+      "updated": 1791532070405
+    },
+    {
+      "id": "mv0nxsc5lvqpy338",
+      "word": "長い",
+      "meaning": "길다",
+      "note": "ながい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070406,
+      "updated": 1791532070406
+    },
+    {
+      "id": "mv0nxsc5340m8339",
+      "word": "短い",
+      "meaning": "짧다",
+      "note": "みじかい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070407,
+      "updated": 1791532070407
+    },
+    {
+      "id": "mv0nxsc56bev2340",
+      "word": "速い/早い",
+      "meaning": "빠르다/이르다",
+      "note": "はやい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070408,
+      "updated": 1791532070408
+    },
+    {
+      "id": "mv0nxsc5mi29i341",
+      "word": "遅い",
+      "meaning": "느리다/늦다",
+      "note": "おそい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070409,
+      "updated": 1791532070409
+    },
+    {
+      "id": "mv0nxsc5o8uaz342",
+      "word": "近い",
+      "meaning": "가깝다",
+      "note": "ちかい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070410,
+      "updated": 1791532070410
+    },
+    {
+      "id": "mv0nxsc5xudwl343",
+      "word": "遠い",
+      "meaning": "멀다",
+      "note": "とおい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070411,
+      "updated": 1791532070411
+    },
+    {
+      "id": "mv0nxsc5ffx2d344",
+      "word": "重い",
+      "meaning": "무겁다",
+      "note": "おもい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070412,
+      "updated": 1791532070412
+    },
+    {
+      "id": "mv0nxsc57obvi345",
+      "word": "軽い",
+      "meaning": "가볍다",
+      "note": "かるい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070413,
+      "updated": 1791532070413
+    },
+    {
+      "id": "mv0nxsc5f8kff346",
+      "word": "強い",
+      "meaning": "강하다",
+      "note": "つよい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070414,
+      "updated": 1791532070414
+    },
+    {
+      "id": "mv0nxsc5736i3347",
+      "word": "弱い",
+      "meaning": "약하다",
+      "note": "よわい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070415,
+      "updated": 1791532070415
+    },
+    {
+      "id": "mv0nxsc5k4qki348",
+      "word": "明るい",
+      "meaning": "밝다",
+      "note": "あかるい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070416,
+      "updated": 1791532070416
+    },
+    {
+      "id": "mv0nxsc5va6qw349",
+      "word": "暗い",
+      "meaning": "어둡다",
+      "note": "くらい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070417,
+      "updated": 1791532070417
+    },
+    {
+      "id": "mv0nxsc53jgz4350",
+      "word": "広い",
+      "meaning": "넓다",
+      "note": "ひろい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070418,
+      "updated": 1791532070418
+    },
+    {
+      "id": "mv0nxsc5ukiah351",
+      "word": "狭い",
+      "meaning": "좁다",
+      "note": "せまい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070419,
+      "updated": 1791532070419
+    },
+    {
+      "id": "mv0nxsc5nxann352",
+      "word": "美味しい",
+      "meaning": "맛있다",
+      "note": "おいしい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070420,
+      "updated": 1791532070420
+    },
+    {
+      "id": "mv0nxsc5w0hz0353",
+      "word": "まずい",
+      "meaning": "맛없다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070421,
+      "updated": 1791532070421
+    },
+    {
+      "id": "mv0nxsc5m2bqk354",
+      "word": "かわいい",
+      "meaning": "귀엽다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070422,
+      "updated": 1791532070422
+    },
+    {
+      "id": "mv0nxsc56kiz5355",
+      "word": "かっこいい",
+      "meaning": "멋있다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070423,
+      "updated": 1791532070423
+    },
+    {
+      "id": "mv0nxsc5ehay2356",
+      "word": "痛い",
+      "meaning": "아프다",
+      "note": "いたい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070424,
+      "updated": 1791532070424
+    },
+    {
+      "id": "mv0nxsc58i15e357",
+      "word": "欲しい",
+      "meaning": "갖고 싶다",
+      "note": "ほしい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070425,
+      "updated": 1791532070425
+    },
+    {
+      "id": "mv0nxsc55niiy358",
+      "word": "いい/よい",
+      "meaning": "좋다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070426,
+      "updated": 1791532070426
+    },
+    {
+      "id": "mv0nxsc5axn1q359",
+      "word": "優しい",
+      "meaning": "상냥하다/친절하다",
+      "note": "やさしい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070427,
+      "updated": 1791532070427
+    },
+    {
+      "id": "mv0nxsc5kz479360",
+      "word": "元気",
+      "meaning": "건강함",
+      "note": "げんき",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070428,
+      "updated": 1791532070428
+    },
+    {
+      "id": "mv0nxsc5lwnvy361",
+      "word": "きれい",
+      "meaning": "예쁨/깨끗함",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070429,
+      "updated": 1791532070429
+    },
+    {
+      "id": "mv0nxsc5i8gzq362",
+      "word": "静か",
+      "meaning": "조용함",
+      "note": "しずか",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070430,
+      "updated": 1791532070430
+    },
+    {
+      "id": "mv0nxsc51uu66363",
+      "word": "にぎやか",
+      "meaning": "번화함/활기참",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070431,
+      "updated": 1791532070431
+    },
+    {
+      "id": "mv0nxsc5c325o364",
+      "word": "有名",
+      "meaning": "유명함",
+      "note": "ゆうめい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070432,
+      "updated": 1791532070432
+    },
+    {
+      "id": "mv0nxsc5mtve2365",
+      "word": "親切",
+      "meaning": "친절함",
+      "note": "しんせつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070433,
+      "updated": 1791532070433
+    },
+    {
+      "id": "mv0nxsc5y3glj366",
+      "word": "便利",
+      "meaning": "편리함",
+      "note": "べんり",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070434,
+      "updated": 1791532070434
+    },
+    {
+      "id": "mv0nxsc5q7ff8367",
+      "word": "不便",
+      "meaning": "불편함",
+      "note": "ふべん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070435,
+      "updated": 1791532070435
+    },
+    {
+      "id": "mv0nxsc5krdzg368",
+      "word": "簡単",
+      "meaning": "간단함",
+      "note": "かんたん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070436,
+      "updated": 1791532070436
+    },
+    {
+      "id": "mv0nxsc5lzdxo369",
+      "word": "大変",
+      "meaning": "힘듦/큰일임",
+      "note": "たいへん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070437,
+      "updated": 1791532070437
+    },
+    {
+      "id": "mv0nxsc53rw77370",
+      "word": "好き",
+      "meaning": "좋아함",
+      "note": "すき",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070438,
+      "updated": 1791532070438
+    },
+    {
+      "id": "mv0nxsc513vbu371",
+      "word": "嫌い",
+      "meaning": "싫어함",
+      "note": "きらい",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070439,
+      "updated": 1791532070439
+    },
+    {
+      "id": "mv0nxsc53nf1m372",
+      "word": "上手",
+      "meaning": "잘함/능숙함",
+      "note": "じょうず",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070440,
+      "updated": 1791532070440
+    },
+    {
+      "id": "mv0nxsc5za1g9373",
+      "word": "下手",
+      "meaning": "서투름",
+      "note": "へた",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070441,
+      "updated": 1791532070441
+    },
+    {
+      "id": "mv0nxsc543mcw374",
+      "word": "暇",
+      "meaning": "한가함",
+      "note": "ひま",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070442,
+      "updated": 1791532070442
+    },
+    {
+      "id": "mv0nxsc5q3chs375",
+      "word": "大切",
+      "meaning": "소중함",
+      "note": "たいせつ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070443,
+      "updated": 1791532070443
+    },
+    {
+      "id": "mv0nxsc5hkfb9376",
+      "word": "同じ",
+      "meaning": "같음",
+      "note": "おなじ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070444,
+      "updated": 1791532070444
+    },
+    {
+      "id": "mv0nxsc55lora377",
+      "word": "いろいろ",
+      "meaning": "여러 가지",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070445,
+      "updated": 1791532070445
+    },
+    {
+      "id": "mv0nxsc5efyxz378",
+      "word": "大丈夫",
+      "meaning": "괜찮음",
+      "note": "だいじょうぶ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070446,
+      "updated": 1791532070446
+    },
+    {
+      "id": "mv0nxsc5l3j23379",
+      "word": "残念",
+      "meaning": "아쉬움/유감임",
+      "note": "ざんねん",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070447,
+      "updated": 1791532070447
+    },
+    {
+      "id": "mv0nxsc5q39gi380",
+      "word": "とても",
+      "meaning": "매우",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070448,
+      "updated": 1791532070448
+    },
+    {
+      "id": "mv0nxsc5d1blz381",
+      "word": "たくさん",
+      "meaning": "많이",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070449,
+      "updated": 1791532070449
+    },
+    {
+      "id": "mv0nxsc5u1n0c382",
+      "word": "少し",
+      "meaning": "조금",
+      "note": "すこし",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070450,
+      "updated": 1791532070450
+    },
+    {
+      "id": "mv0nxsc5plr2r383",
+      "word": "よく",
+      "meaning": "자주/잘",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070451,
+      "updated": 1791532070451
+    },
+    {
+      "id": "mv0nxsc518o01384",
+      "word": "いつも",
+      "meaning": "항상",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070452,
+      "updated": 1791532070452
+    },
+    {
+      "id": "mv0nxsc57omfq385",
+      "word": "時々",
+      "meaning": "가끔",
+      "note": "ときどき",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070453,
+      "updated": 1791532070453
+    },
+    {
+      "id": "mv0nxsc5y7i59386",
+      "word": "まだ",
+      "meaning": "아직",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070454,
+      "updated": 1791532070454
+    },
+    {
+      "id": "mv0nxsc5sgjka387",
+      "word": "もう",
+      "meaning": "이미/벌써",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070455,
+      "updated": 1791532070455
+    },
+    {
+      "id": "mv0nxsc5ieqvt388",
+      "word": "すぐに",
+      "meaning": "곧/바로",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070456,
+      "updated": 1791532070456
+    },
+    {
+      "id": "mv0nxsc5b1hw3389",
+      "word": "ゆっくり",
+      "meaning": "천천히",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070457,
+      "updated": 1791532070457
+    },
+    {
+      "id": "mv0nxsc5f2bc0390",
+      "word": "ちょっと",
+      "meaning": "조금/잠깐",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070458,
+      "updated": 1791532070458
+    },
+    {
+      "id": "mv0nxsc5f6dqe391",
+      "word": "あまり",
+      "meaning": "별로(안~)",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070459,
+      "updated": 1791532070459
+    },
+    {
+      "id": "mv0nxsc5f5y9y392",
+      "word": "全部",
+      "meaning": "전부",
+      "note": "ぜんぶ",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070460,
+      "updated": 1791532070460
+    },
+    {
+      "id": "mv0nxsc5o0qjh393",
+      "word": "一緒に",
+      "meaning": "함께",
+      "note": "いっしょに",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070461,
+      "updated": 1791532070461
+    },
+    {
+      "id": "mv0nxsc5wtrus394",
+      "word": "それから",
+      "meaning": "그러고 나서",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070462,
+      "updated": 1791532070462
+    },
+    {
+      "id": "mv0nxsc5o156v395",
+      "word": "そして",
+      "meaning": "그리고",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070463,
+      "updated": 1791532070463
+    },
+    {
+      "id": "mv0nxsc573yt0396",
+      "word": "でも",
+      "meaning": "하지만",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070464,
+      "updated": 1791532070464
+    },
+    {
+      "id": "mv0nxsc50vv0x397",
+      "word": "だから",
+      "meaning": "그래서",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070465,
+      "updated": 1791532070465
+    },
+    {
+      "id": "mv0nxsc5iigkr398",
+      "word": "しかし",
+      "meaning": "그러나",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070466,
+      "updated": 1791532070466
+    },
+    {
+      "id": "mv0nxsc5oi4rx399",
+      "word": "では",
+      "meaning": "그러면",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070467,
+      "updated": 1791532070467
+    },
+    {
+      "id": "mv0nxsc52yma8400",
+      "word": "～さん",
+      "meaning": "~씨",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070468,
+      "updated": 1791532070468
+    },
+    {
+      "id": "mv0nxsc52i0y1401",
+      "word": "～ください",
+      "meaning": "~해 주세요",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070469,
+      "updated": 1791532070469
+    },
+    {
+      "id": "mv0nxsc56wh41402",
+      "word": "～ましょう",
+      "meaning": "~합시다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070470,
+      "updated": 1791532070470
+    },
+    {
+      "id": "mv0nxsc5v38en403",
+      "word": "～たい",
+      "meaning": "~하고 싶다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070471,
+      "updated": 1791532070471
+    },
+    {
+      "id": "mv0nxsc5z8dbr404",
+      "word": "～ながら",
+      "meaning": "~하면서",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070472,
+      "updated": 1791532070472
+    },
+    {
+      "id": "mv0nxsc508rjc405",
+      "word": "～てもいいです",
+      "meaning": "~해도 됩니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070473,
+      "updated": 1791532070473
+    },
+    {
+      "id": "mv0nxsc58u8vj406",
+      "word": "～てはいけません",
+      "meaning": "~하면 안 됩니다",
+      "note": "",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070474,
+      "updated": 1791532070474
+    },
+    {
+      "id": "mv0nxsc50v3cx407",
+      "word": "大丈夫です",
+      "meaning": "괜찮습니다",
+      "note": "だいじょうぶです",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070475,
+      "updated": 1791532070475
+    },
+    {
+      "id": "mv0nxsc5y45kf408",
+      "word": "分かりました",
+      "meaning": "알겠습니다",
+      "note": "わかりました",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070476,
+      "updated": 1791532070476
+    },
+    {
+      "id": "mv0nxsc5gdbro409",
+      "word": "お元気ですか",
+      "meaning": "잘 지내세요?",
+      "note": "おげんきですか",
+      "example": "",
+      "tags": [
+        "N5 일본어"
+      ],
+      "created": 1791532070477,
+      "updated": 1791532070477
     }
   ],
   "stats": {},
