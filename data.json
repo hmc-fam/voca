@@ -6120,6 +6120,246 @@
       ],
       "created": 1791584429575,
       "updated": 1791584429575
+    },
+    {
+      "id": "mva9h1r2ahkt50",
+      "word": "いい知らせ",
+      "meaning": "좋은 소식",
+      "note": "いいしらせ",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436254,
+      "updated": 1792112436254
+    },
+    {
+      "id": "mva9h1r2x2sb41",
+      "word": "悪い知らせ",
+      "meaning": "나쁜 소식",
+      "note": "わるいしらせ",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436255,
+      "updated": 1792112436255
+    },
+    {
+      "id": "mva9h1r2cga9s2",
+      "word": "なんかドキドキする",
+      "meaning": "왠지 두근두근하다",
+      "note": "なんかドキドキする",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436256,
+      "updated": 1792112436256
+    },
+    {
+      "id": "mva9h1r2l7cnd3",
+      "word": "～から聞かせてください",
+      "meaning": "~부터 들려 주세요",
+      "note": "～からきかせてください",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436257,
+      "updated": 1792112436257
+    },
+    {
+      "id": "mva9h1r2v5kt64",
+      "word": "実は",
+      "meaning": "실은, 사실은",
+      "note": "じつは",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436258,
+      "updated": 1792112436258
+    },
+    {
+      "id": "mva9h1r2hnxuh5",
+      "word": "この前受けた",
+      "meaning": "이전에 (시험을) 치른",
+      "note": "このまえうけた",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436259,
+      "updated": 1792112436259
+    },
+    {
+      "id": "mva9h1r2wl2s86",
+      "word": "旅行会社に受かったんです",
+      "meaning": "여행사에 합격했습니다",
+      "note": "りょこうがいしゃにうかったんです",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436260,
+      "updated": 1792112436260
+    },
+    {
+      "id": "mva9h1r2zgszk7",
+      "word": "よかった",
+      "meaning": "잘됐다 / 다행이다",
+      "note": "よかった",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436261,
+      "updated": 1792112436261
+    },
+    {
+      "id": "mva9h1r2gax248",
+      "word": "あと",
+      "meaning": "그리고 / 또",
+      "note": "あと",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436262,
+      "updated": 1792112436262
+    },
+    {
+      "id": "mva9h1r2m0g579",
+      "word": "4月",
+      "meaning": "4월",
+      "note": "しがつ",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436263,
+      "updated": 1792112436263
+    },
+    {
+      "id": "mva9h1r25jlw410",
+      "word": "働く",
+      "meaning": "일하다",
+      "note": "はたらく",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436264,
+      "updated": 1792112436264
+    },
+    {
+      "id": "mva9h1r2vj9ux11",
+      "word": "～ことになったんです",
+      "meaning": "~하게 되었습니다",
+      "note": "～ことになったんです",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436265,
+      "updated": 1792112436265
+    },
+    {
+      "id": "mva9h1r2ythn212",
+      "word": "だから",
+      "meaning": "그래서",
+      "note": "だから",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436266,
+      "updated": 1792112436266
+    },
+    {
+      "id": "mva9h1r2ep9u713",
+      "word": "僕たち",
+      "meaning": "우리 / 우리들",
+      "note": "ぼくたち",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436267,
+      "updated": 1792112436267
+    },
+    {
+      "id": "mva9h1r2h0mjd14",
+      "word": "離れ離れになっちゃいます",
+      "meaning": "따로따로 떨어지게 되어 버렸습니다",
+      "note": "はなればなれになっちゃいます",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436268,
+      "updated": 1792112436268
+    },
+    {
+      "id": "mva9h1r2eu0i215",
+      "word": "～に戻る",
+      "meaning": "~에 (되)돌아가다",
+      "note": "～にもどる",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436269,
+      "updated": 1792112436269
+    },
+    {
+      "id": "mva9h1r2c8f9816",
+      "word": "うっそ",
+      "meaning": "거짓말",
+      "note": "うっそ",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436270,
+      "updated": 1792112436270
+    },
+    {
+      "id": "mva9h1r2kiqap17",
+      "word": "運命かも",
+      "meaning": "운명일지도",
+      "note": "うんめいかも",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436271,
+      "updated": 1792112436271
+    },
+    {
+      "id": "mva9h1r26qmx418",
+      "word": "いいことばかり",
+      "meaning": "좋은 일뿐(이다)",
+      "note": "いいことばかり",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436272,
+      "updated": 1792112436272
+    },
+    {
+      "id": "mva9h1r207uwl19",
+      "word": "これからもよろしくお願いします",
+      "meaning": "앞으로도 잘 부탁합니다",
+      "note": "これからもよろしくおねがいします",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792112436273,
+      "updated": 1792112436273
     }
   ],
   "stats": {
