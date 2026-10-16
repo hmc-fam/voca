@@ -6360,6 +6360,234 @@
       ],
       "created": 1792112436273,
       "updated": 1792112436273
+    },
+    {
+      "id": "mvaan7gyk01sx0",
+      "word": "すみません",
+      "meaning": "여기요 (사람을 부를 때)",
+      "note": "すみません",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403218,
+      "updated": 1792114403218
+    },
+    {
+      "id": "mvaan7gy21j711",
+      "word": "お客様",
+      "meaning": "손님",
+      "note": "おきゃくさま",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403219,
+      "updated": 1792114403219
+    },
+    {
+      "id": "mvaan7gyl0sz72",
+      "word": "寝ていた",
+      "meaning": "자고 있었다",
+      "note": "ねていた",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403220,
+      "updated": 1792114403220
+    },
+    {
+      "id": "mvaan7gy8y5ms3",
+      "word": "～ので",
+      "meaning": "~이니까 / 해서",
+      "note": "～ので",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403221,
+      "updated": 1792114403221
+    },
+    {
+      "id": "mvaan7gy9rhs74",
+      "word": "入国カード",
+      "meaning": "입국카드",
+      "note": "にゅうこくカード",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403222,
+      "updated": 1792114403222
+    },
+    {
+      "id": "mvaan7gy5nyz75",
+      "word": "税関申告書",
+      "meaning": "세관신고서",
+      "note": "ぜいかんしんこくしょ",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403223,
+      "updated": 1792114403223
+    },
+    {
+      "id": "mvaan7gyvb07q6",
+      "word": "もらえなかったんですが",
+      "meaning": "못 받았는데요",
+      "note": "もらえなかったんですが",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403224,
+      "updated": 1792114403224
+    },
+    {
+      "id": "mvaan7gyfb49q7",
+      "word": "かしこまりました",
+      "meaning": "잘 알겠습니다 / 분부대로 하겠습니다 (わかりました의 겸양표현)",
+      "note": "かしこまりました",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403225,
+      "updated": 1792114403225
+    },
+    {
+      "id": "mvaan7gyu8xri8",
+      "word": "ただ今",
+      "meaning": "지금 (今의 정중표현)",
+      "note": "ただいま",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403226,
+      "updated": 1792114403226
+    },
+    {
+      "id": "mvaan7gy3euvp9",
+      "word": "お＋동사의 ます형＋します",
+      "meaning": "~합니다 / 하겠습니다 (동사의 겸양표현)",
+      "note": "お＋ます형＋します",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403227,
+      "updated": 1792114403227
+    },
+    {
+      "id": "mvaan7gymr0eh10",
+      "word": "お持ちします",
+      "meaning": "가지고 옵니다 / 가져다 드리겠습니다 (持ちます의 겸양표현)",
+      "note": "おもちします",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403228,
+      "updated": 1792114403228
+    },
+    {
+      "id": "mvaan7gy564kn11",
+      "word": "それと",
+      "meaning": "그리고",
+      "note": "それと",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403229,
+      "updated": 1792114403229
+    },
+    {
+      "id": "mvaan7gyyg17v12",
+      "word": "寒い",
+      "meaning": "춥다",
+      "note": "さむい",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403230,
+      "updated": 1792114403230
+    },
+    {
+      "id": "mvaan7gysjnvm13",
+      "word": "ブランケット",
+      "meaning": "블랭킷 / 담요",
+      "note": "ブランケット",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403231,
+      "updated": 1792114403231
+    },
+    {
+      "id": "mvaan7gypvg3p14",
+      "word": "もらえますか",
+      "meaning": "받을 수 있습니까? / 주시겠어요?",
+      "note": "もらえますか",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403232,
+      "updated": 1792114403232
+    },
+    {
+      "id": "mvaan7gyr2v9f15",
+      "word": "お食事",
+      "meaning": "식사",
+      "note": "おしょくじ",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403233,
+      "updated": 1792114403233
+    },
+    {
+      "id": "mvaan7gymjylw16",
+      "word": "お済みでしょうか",
+      "meaning": "끝나셨습니까? / 다하셨습니까?",
+      "note": "おすみでしょうか",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403234,
+      "updated": 1792114403234
+    },
+    {
+      "id": "mvaan7gy7ktmd17",
+      "word": "まだ",
+      "meaning": "아직",
+      "note": "まだ",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403235,
+      "updated": 1792114403235
+    },
+    {
+      "id": "mvaan7gyuj4dl18",
+      "word": "(ご)用意",
+      "meaning": "준비",
+      "note": "(ご)ようい",
+      "example": "",
+      "tags": [
+        "스쿠스쿠"
+      ],
+      "created": 1792114403236,
+      "updated": 1792114403236
     }
   ],
   "stats": {
