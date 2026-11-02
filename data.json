@@ -6588,6 +6588,702 @@
       ],
       "created": 1792114403236,
       "updated": 1792114403236
+    },
+    {
+      "id": "mvysjl8rnphqu0",
+      "word": "配達",
+      "meaning": "배달",
+      "note": "はいたつ · 配(배달)+達(도달)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655755,
+      "updated": 1793595655755
+    },
+    {
+      "id": "mvysjl8s51unm1",
+      "word": "送付",
+      "meaning": "송부",
+      "note": "そうふ · 送(보내다)+付",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655756,
+      "updated": 1793595655756
+    },
+    {
+      "id": "mvysjl8scvgh62",
+      "word": "受取",
+      "meaning": "수령",
+      "note": "うけとり · 受(받다)+取(받다/취하다)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655757,
+      "updated": 1793595655757
+    },
+    {
+      "id": "mvysjl8s7tw183",
+      "word": "荷物",
+      "meaning": "짐",
+      "note": "にもつ · 荷(짐)+物(물건)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655758,
+      "updated": 1793595655758
+    },
+    {
+      "id": "mvysjl8sqxudh4",
+      "word": "不在",
+      "meaning": "부재",
+      "note": "ふざい · 不(불~)+在(있다/재중)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655759,
+      "updated": 1793595655759
+    },
+    {
+      "id": "mvysjl8slssmb5",
+      "word": "再配達",
+      "meaning": "재배송",
+      "note": "さいはいたつ · 再(다시)+配達(배달)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655760,
+      "updated": 1793595655760
+    },
+    {
+      "id": "mvysjl8si1k5v6",
+      "word": "指定",
+      "meaning": "지정",
+      "note": "してい · 指(지정)+定(정하다)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655761,
+      "updated": 1793595655761
+    },
+    {
+      "id": "mvysjl8s1nwhu7",
+      "word": "支払い",
+      "meaning": "지불",
+      "note": "しはらい · 支(지불/지지)+払(지불하다)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655762,
+      "updated": 1793595655762
+    },
+    {
+      "id": "mvysjl8spbk418",
+      "word": "支出",
+      "meaning": "지출",
+      "note": "ししゅつ · 支(지불/지지)+出",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655763,
+      "updated": 1793595655763
+    },
+    {
+      "id": "mvysjl8s485cs9",
+      "word": "振込",
+      "meaning": "계좌입금",
+      "note": "ふりこみ · 振(흔들다/이체)+込(넣다/포함)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655764,
+      "updated": 1793595655764
+    },
+    {
+      "id": "mvysjl8sky2zk10",
+      "word": "両替",
+      "meaning": "환전",
+      "note": "りょうがえ · 両(양쪽)+替(바꾸다)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655765,
+      "updated": 1793595655765
+    },
+    {
+      "id": "mvysjl8sowm5c11",
+      "word": "預金",
+      "meaning": "예금",
+      "note": "よきん · 預(맡기다)+金(돈/금)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655766,
+      "updated": 1793595655766
+    },
+    {
+      "id": "mvysjl8sotamv12",
+      "word": "現金",
+      "meaning": "현금",
+      "note": "げんきん · 現(현재/현금)+金(돈/금)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655767,
+      "updated": 1793595655767
+    },
+    {
+      "id": "mvysjl8sm3rgv13",
+      "word": "収入",
+      "meaning": "수입",
+      "note": "しゅうにゅう · 収(거두다)+入(들어오다)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655768,
+      "updated": 1793595655768
+    },
+    {
+      "id": "mvysjl8slayg014",
+      "word": "片道",
+      "meaning": "편도",
+      "note": "かたみち · 片(한쪽)+道",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655769,
+      "updated": 1793595655769
+    },
+    {
+      "id": "mvysjl8sx8gew15",
+      "word": "全部",
+      "meaning": "전부",
+      "note": "ぜんぶ · 全(전부)+部",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655770,
+      "updated": 1793595655770
+    },
+    {
+      "id": "mvysjl8szeafv16",
+      "word": "各駅",
+      "meaning": "각 역",
+      "note": "かくえき · 各(각각)+駅(역)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655771,
+      "updated": 1793595655771
+    },
+    {
+      "id": "mvysjl8s1rnda17",
+      "word": "駅",
+      "meaning": "역",
+      "note": "えき · 한 글자지만 같은 뜻의 두 글자 단어가 없어 포함",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655772,
+      "updated": 1793595655772
+    },
+    {
+      "id": "mvysjl8s0at5b18",
+      "word": "別料金",
+      "meaning": "별도 요금",
+      "note": "べつりょうきん · 別(별도)+料金",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655773,
+      "updated": 1793595655773
+    },
+    {
+      "id": "mvysjl8spwtvh19",
+      "word": "共通",
+      "meaning": "공통",
+      "note": "きょうつう · 共(함께)+通",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655774,
+      "updated": 1793595655774
+    },
+    {
+      "id": "mvysjl8s51dfz20",
+      "word": "必要",
+      "meaning": "필요",
+      "note": "ひつよう · 必(반드시)+要(필요)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655775,
+      "updated": 1793595655775
+    },
+    {
+      "id": "mvysjl8s6qe5w21",
+      "word": "不便",
+      "meaning": "불편",
+      "note": "ふべん · 不(~하지 않음)+便(편리)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655776,
+      "updated": 1793595655776
+    },
+    {
+      "id": "mvysjl8s9uq9222",
+      "word": "便利",
+      "meaning": "편리",
+      "note": "べんり · 便(편리)+利",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655777,
+      "updated": 1793595655777
+    },
+    {
+      "id": "mvysjl8s48hhx23",
+      "word": "無料",
+      "meaning": "무료",
+      "note": "むりょう · 無(없다)+料",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655778,
+      "updated": 1793595655778
+    },
+    {
+      "id": "mvysjl8sxdcwd24",
+      "word": "有料",
+      "meaning": "유료",
+      "note": "ゆうりょう · 有(있다)+料",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655779,
+      "updated": 1793595655779
+    },
+    {
+      "id": "mvysjl8sqs34y25",
+      "word": "可能",
+      "meaning": "가능",
+      "note": "かのう · 可(가능)+能",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655780,
+      "updated": 1793595655780
+    },
+    {
+      "id": "mvysjl8spb4we26",
+      "word": "不可",
+      "meaning": "불가(불가능)",
+      "note": "ふか · 不(~하지 않음)+可(가능)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655781,
+      "updated": 1793595655781
+    },
+    {
+      "id": "mvysjl8s27uyh27",
+      "word": "不可能",
+      "meaning": "불가능",
+      "note": "ふかのう · 不可+能",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655782,
+      "updated": 1793595655782
+    },
+    {
+      "id": "mvysjl8sosnvm28",
+      "word": "在留",
+      "meaning": "재류(체류)",
+      "note": "ざいりゅう · 在(재~)+留(머무르다)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655783,
+      "updated": 1793595655783
+    },
+    {
+      "id": "mvysjl8sathew29",
+      "word": "資格",
+      "meaning": "자격",
+      "note": "しかく · 資(자격/자료)+格(자격)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655784,
+      "updated": 1793595655784
+    },
+    {
+      "id": "mvysjl8sb0j9d30",
+      "word": "更新",
+      "meaning": "갱신",
+      "note": "こうしん · 更(갱신/바꾸다)+新(새롭다)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655785,
+      "updated": 1793595655785
+    },
+    {
+      "id": "mvysjl8sq6c6b31",
+      "word": "期間",
+      "meaning": "기간",
+      "note": "きかん · 期(기간)+間",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655786,
+      "updated": 1793595655786
+    },
+    {
+      "id": "mvysjl8s3knb132",
+      "word": "期限",
+      "meaning": "기한",
+      "note": "きげん · 期(기간)+限(제한)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655787,
+      "updated": 1793595655787
+    },
+    {
+      "id": "mvysjl8s6uv8l33",
+      "word": "住所",
+      "meaning": "주소",
+      "note": "じゅうしょ · 住(살다)+所",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655788,
+      "updated": 1793595655788
+    },
+    {
+      "id": "mvysjl8s1f9rw34",
+      "word": "届出",
+      "meaning": "신고",
+      "note": "とどけで · 届(신고하다)+出",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655789,
+      "updated": 1793595655789
+    },
+    {
+      "id": "mvysjl8saxzfn35",
+      "word": "転入",
+      "meaning": "전입",
+      "note": "てんにゅう · 転(옮기다)+入(들어오다)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655790,
+      "updated": 1793595655790
+    },
+    {
+      "id": "mvysjl8szmqa536",
+      "word": "離職",
+      "meaning": "이직",
+      "note": "りしょく · 離(떠나다)+職(직업)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655791,
+      "updated": 1793595655791
+    },
+    {
+      "id": "mvysjl8suif9037",
+      "word": "税金",
+      "meaning": "세금",
+      "note": "ぜいきん · 税(세금)+金(돈/금)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655792,
+      "updated": 1793595655792
+    },
+    {
+      "id": "mvysjl8sazbu038",
+      "word": "納税",
+      "meaning": "납세",
+      "note": "のうぜい · 納(납부하다)+税(세금)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655793,
+      "updated": 1793595655793
+    },
+    {
+      "id": "mvysjl8sbnrq139",
+      "word": "保険",
+      "meaning": "보험",
+      "note": "ほけん · 保(보장)+険(위험)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655794,
+      "updated": 1793595655794
+    },
+    {
+      "id": "mvysjl8sgjkpm40",
+      "word": "募集",
+      "meaning": "모집",
+      "note": "ぼしゅう · 募(모집)+集(모으다)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655795,
+      "updated": 1793595655795
+    },
+    {
+      "id": "mvysjl8sxxzon41",
+      "word": "応募",
+      "meaning": "응모",
+      "note": "おうぼ · 応(응하다)+募(모집)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655796,
+      "updated": 1793595655796
+    },
+    {
+      "id": "mvysjl8svyf1a42",
+      "word": "採用",
+      "meaning": "채용",
+      "note": "さいよう · 採(채택)+用(사용/채용)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655797,
+      "updated": 1793595655797
+    },
+    {
+      "id": "mvysjl8sl5hny43",
+      "word": "面接",
+      "meaning": "면접",
+      "note": "めんせつ · 面(면)+接(접하다)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655798,
+      "updated": 1793595655798
+    },
+    {
+      "id": "mvysjl8s5fz0c44",
+      "word": "条件",
+      "meaning": "조건",
+      "note": "じょうけん · 条(조건)+件(건/조건)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655799,
+      "updated": 1793595655799
+    },
+    {
+      "id": "mvysjl8szne7845",
+      "word": "契約",
+      "meaning": "계약",
+      "note": "けいやく · 契(맺다)+約(약속)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655800,
+      "updated": 1793595655800
+    },
+    {
+      "id": "mvysjl8s9lpb746",
+      "word": "退職",
+      "meaning": "퇴직",
+      "note": "たいしょく · 退(물러나다)+職(직업)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655801,
+      "updated": 1793595655801
+    },
+    {
+      "id": "mvysjl8sgpu8b47",
+      "word": "欠勤",
+      "meaning": "결근",
+      "note": "けっきん · 欠(빠지다)+勤",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655802,
+      "updated": 1793595655802
+    },
+    {
+      "id": "mvysjl8sp7pyp48",
+      "word": "遅刻",
+      "meaning": "지각",
+      "note": "ちこく · 遅(늦다)+刻",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655803,
+      "updated": 1793595655803
+    },
+    {
+      "id": "mvysjl8sards049",
+      "word": "診察",
+      "meaning": "진찰",
+      "note": "しんさつ · 診(진찰)+察(살피다)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655804,
+      "updated": 1793595655804
+    },
+    {
+      "id": "mvysjl8sw4aa250",
+      "word": "初診",
+      "meaning": "초진",
+      "note": "しょしん · 初(처음)+診(진찰)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655805,
+      "updated": 1793595655805
+    },
+    {
+      "id": "mvysjl8s88zdl51",
+      "word": "再診",
+      "meaning": "재진",
+      "note": "さいしん · 再(다시)+診(진찰)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655806,
+      "updated": 1793595655806
+    },
+    {
+      "id": "mvysjl8ssalq052",
+      "word": "処方",
+      "meaning": "처방",
+      "note": "しょほう · 処(처분/처리)+方(방법)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655807,
+      "updated": 1793595655807
+    },
+    {
+      "id": "mvysjl8sicnn753",
+      "word": "処方箋",
+      "meaning": "처방전",
+      "note": "しょほうせん · 処方+箋(종이쪽지)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655808,
+      "updated": 1793595655808
+    },
+    {
+      "id": "mvysjl8s6rtif54",
+      "word": "検査",
+      "meaning": "검사",
+      "note": "けんさ · 検(검사)+査(조사)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655809,
+      "updated": 1793595655809
+    },
+    {
+      "id": "mvysjl8sq08un55",
+      "word": "結果",
+      "meaning": "결과",
+      "note": "けっか · 結(맺다/결과)+果(결과)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655810,
+      "updated": 1793595655810
+    },
+    {
+      "id": "mvysjl8su1i7l56",
+      "word": "症状",
+      "meaning": "증상",
+      "note": "しょうじょう · 症(증상)+状(상태)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655811,
+      "updated": 1793595655811
+    },
+    {
+      "id": "mvysjl8st3n3n57",
+      "word": "治療",
+      "meaning": "치료",
+      "note": "ちりょう · 治(낫다)+療(치료)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1793595655812,
+      "updated": 1793595655812
     }
   ],
   "stats": {
