@@ -7284,6 +7284,1458 @@
       ],
       "created": 1793595655812,
       "updated": 1793595655812
+    },
+    {
+      "id": "mwoofkr4e3mlb0",
+      "word": "危険",
+      "meaning": "위험",
+      "note": "きけん",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870608,
+      "updated": 1795160870608
+    },
+    {
+      "id": "mwoofkr4h1l401",
+      "word": "終電",
+      "meaning": "막차",
+      "note": "しゅうでん",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870609,
+      "updated": 1795160870609
+    },
+    {
+      "id": "mwoofkr44okyz2",
+      "word": "必ず",
+      "meaning": "반드시",
+      "note": "かならず",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870610,
+      "updated": 1795160870610
+    },
+    {
+      "id": "mwoofkr4cb46d3",
+      "word": "扱う",
+      "meaning": "다루다",
+      "note": "あつかう",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870611,
+      "updated": 1795160870611
+    },
+    {
+      "id": "mwoofkr4i9x0d4",
+      "word": "家具",
+      "meaning": "가구",
+      "note": "かぐ · 음성만 있어 家具(가구)로 추정, 嗅ぐ(냄새 맡다)일 수도 있음",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870612,
+      "updated": 1795160870612
+    },
+    {
+      "id": "mwoofkr4u240k5",
+      "word": "突き当たり",
+      "meaning": "막다른 곳",
+      "note": "つきあたり",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870613,
+      "updated": 1795160870613
+    },
+    {
+      "id": "mwoofkr4jje0n6",
+      "word": "曲がる",
+      "meaning": "구부러지다, (길을) 돌다",
+      "note": "まがる",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870614,
+      "updated": 1795160870614
+    },
+    {
+      "id": "mwoofkr4shqj37",
+      "word": "信号",
+      "meaning": "신호",
+      "note": "しんごう",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870615,
+      "updated": 1795160870615
+    },
+    {
+      "id": "mwoofkr4nfv3l8",
+      "word": "改札",
+      "meaning": "개찰구",
+      "note": "かいさつ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870616,
+      "updated": 1795160870616
+    },
+    {
+      "id": "mwoofkr4krna59",
+      "word": "許可",
+      "meaning": "허가",
+      "note": "きょか",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870617,
+      "updated": 1795160870617
+    },
+    {
+      "id": "mwoofkr4e3uez10",
+      "word": "期限",
+      "meaning": "기한",
+      "note": "きげん · 機嫌(기분) 등 동음이의어 가능",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870618,
+      "updated": 1795160870618
+    },
+    {
+      "id": "mwoofkr4aoqzo11",
+      "word": "お祝い",
+      "meaning": "축하, 축하 선물",
+      "note": "おいわい",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870619,
+      "updated": 1795160870619
+    },
+    {
+      "id": "mwoofkr461lys12",
+      "word": "快適",
+      "meaning": "쾌적",
+      "note": "かいてき",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870620,
+      "updated": 1795160870620
+    },
+    {
+      "id": "mwoofkr4nwpat13",
+      "word": "美しい",
+      "meaning": "아름답다",
+      "note": "うつくしい",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870621,
+      "updated": 1795160870621
+    },
+    {
+      "id": "mwoofkr41ri8814",
+      "word": "勝負",
+      "meaning": "승부",
+      "note": "しょうぶ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870622,
+      "updated": 1795160870622
+    },
+    {
+      "id": "mwoofkr4urub215",
+      "word": "勝つ",
+      "meaning": "이기다",
+      "note": "かつ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870623,
+      "updated": 1795160870623
+    },
+    {
+      "id": "mwoofkr4saniu16",
+      "word": "すっきり",
+      "meaning": "개운한 모양, 깔끔하게",
+      "note": "すっきり · 보통 가나로 씀",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870624,
+      "updated": 1795160870624
+    },
+    {
+      "id": "mwoofkr4hekfx17",
+      "word": "黙る",
+      "meaning": "입을 다물다",
+      "note": "だまる",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870625,
+      "updated": 1795160870625
+    },
+    {
+      "id": "mwoofkr4e7hf418",
+      "word": "写す",
+      "meaning": "베끼다, 찍다",
+      "note": "うつす · 映す(비추다), 移す(옮기다)일 수도 있음",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870626,
+      "updated": 1795160870626
+    },
+    {
+      "id": "mwoofkr421zgi19",
+      "word": "整理",
+      "meaning": "정리",
+      "note": "せいり",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870627,
+      "updated": 1795160870627
+    },
+    {
+      "id": "mwoofkr4jnqc220",
+      "word": "全然",
+      "meaning": "전혀",
+      "note": "ぜんぜん",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870628,
+      "updated": 1795160870628
+    },
+    {
+      "id": "mwoofkr4uhufk21",
+      "word": "植える",
+      "meaning": "심다",
+      "note": "うえる",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870629,
+      "updated": 1795160870629
+    },
+    {
+      "id": "mwoofkr40242t22",
+      "word": "まとめる",
+      "meaning": "정리하다, 한데 모으다",
+      "note": "まとめる · 보통 가나로 씀",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870630,
+      "updated": 1795160870630
+    },
+    {
+      "id": "mwoofkr434w0323",
+      "word": "切符",
+      "meaning": "표, 승차권",
+      "note": "きっぷ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870631,
+      "updated": 1795160870631
+    },
+    {
+      "id": "mwoofkr4kup0a24",
+      "word": "普段",
+      "meaning": "평소",
+      "note": "ふだん",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870632,
+      "updated": 1795160870632
+    },
+    {
+      "id": "mwoofkr4wlrqj25",
+      "word": "箱",
+      "meaning": "상자",
+      "note": "はこ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870633,
+      "updated": 1795160870633
+    },
+    {
+      "id": "mwoofkr44ab1m26",
+      "word": "絵の具",
+      "meaning": "물감",
+      "note": "えのぐ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870634,
+      "updated": 1795160870634
+    },
+    {
+      "id": "mwoofkr4dkwc227",
+      "word": "測る",
+      "meaning": "재다",
+      "note": "はかる · 計る(시간·수 재기), 量る(무게·양 재기)로도 씀",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870635,
+      "updated": 1795160870635
+    },
+    {
+      "id": "mwoofkr4pg0qc28",
+      "word": "屋台",
+      "meaning": "포장마차, 노점",
+      "note": "やたい",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870636,
+      "updated": 1795160870636
+    },
+    {
+      "id": "mwoofkr4i7s8y29",
+      "word": "番線",
+      "meaning": "승강장 번호",
+      "note": "ばんせん",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870637,
+      "updated": 1795160870637
+    },
+    {
+      "id": "mwoofkr4x4d7t30",
+      "word": "おつまみ",
+      "meaning": "안주",
+      "note": "おつまみ · 보통 가나로 씀",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870638,
+      "updated": 1795160870638
+    },
+    {
+      "id": "mwoofkr4jp0f331",
+      "word": "静か",
+      "meaning": "조용함",
+      "note": "しずか",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870639,
+      "updated": 1795160870639
+    },
+    {
+      "id": "mwoofkr46etvp32",
+      "word": "因みに",
+      "meaning": "덧붙여 말하면",
+      "note": "ちなみに · 보통 가나로 씀",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870640,
+      "updated": 1795160870640
+    },
+    {
+      "id": "mwoofkr4x4v6g33",
+      "word": "双子",
+      "meaning": "쌍둥이",
+      "note": "ふたご",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870641,
+      "updated": 1795160870641
+    },
+    {
+      "id": "mwoofkr492vhr34",
+      "word": "売り切れ",
+      "meaning": "품절",
+      "note": "うりきれ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870642,
+      "updated": 1795160870642
+    },
+    {
+      "id": "mwoofkr4bdvkp35",
+      "word": "製",
+      "meaning": "~제(제품)",
+      "note": "せい · 한 글자 항목",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870643,
+      "updated": 1795160870643
+    },
+    {
+      "id": "mwoofkr4t3opm36",
+      "word": "芸術",
+      "meaning": "예술",
+      "note": "げいじゅつ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870644,
+      "updated": 1795160870644
+    },
+    {
+      "id": "mwoofkr4pqljf37",
+      "word": "裏切り",
+      "meaning": "배신",
+      "note": "うらぎり",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870645,
+      "updated": 1795160870645
+    },
+    {
+      "id": "mwoofkr5xlk4g38",
+      "word": "棚",
+      "meaning": "선반",
+      "note": "たな",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870646,
+      "updated": 1795160870646
+    },
+    {
+      "id": "mwoofkr5849z739",
+      "word": "真剣",
+      "meaning": "진지함",
+      "note": "しんけん",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870647,
+      "updated": 1795160870647
+    },
+    {
+      "id": "mwoofkr5riz3d40",
+      "word": "購入",
+      "meaning": "구입",
+      "note": "こうにゅう",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870648,
+      "updated": 1795160870648
+    },
+    {
+      "id": "mwoofkr5k2ewd41",
+      "word": "元カレ",
+      "meaning": "전 남자친구",
+      "note": "もとかれ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870649,
+      "updated": 1795160870649
+    },
+    {
+      "id": "mwoofkr5k5svj42",
+      "word": "選手",
+      "meaning": "선수",
+      "note": "せんしゅ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870650,
+      "updated": 1795160870650
+    },
+    {
+      "id": "mwoofkr5313y543",
+      "word": "窓口",
+      "meaning": "창구",
+      "note": "まどぐち",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870651,
+      "updated": 1795160870651
+    },
+    {
+      "id": "mwoofkr5cn6g944",
+      "word": "券売機",
+      "meaning": "발권기",
+      "note": "けんばいき",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870652,
+      "updated": 1795160870652
+    },
+    {
+      "id": "mwoofkr58poq245",
+      "word": "放題",
+      "meaning": "~무제한, 마음껏",
+      "note": "ほうだい · 〜放題 형태로 씀 (예: 食べ放題)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870653,
+      "updated": 1795160870653
+    },
+    {
+      "id": "mwoofkr5dp8n946",
+      "word": "期間",
+      "meaning": "기간",
+      "note": "きかん · 機関(기관), 器官(기관) 등 동음이의어 가능",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870654,
+      "updated": 1795160870654
+    },
+    {
+      "id": "mwoofkr5pwwtm47",
+      "word": "区間",
+      "meaning": "구간",
+      "note": "くかん",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870655,
+      "updated": 1795160870655
+    },
+    {
+      "id": "mwoofkr5yrr4x48",
+      "word": "最寄り",
+      "meaning": "가장 가까움",
+      "note": "もより",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870656,
+      "updated": 1795160870656
+    },
+    {
+      "id": "mwoofkr5ffs5y49",
+      "word": "肘",
+      "meaning": "팔꿈치",
+      "note": "ひじ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870657,
+      "updated": 1795160870657
+    },
+    {
+      "id": "mwoofkr5hpt0l50",
+      "word": "背中",
+      "meaning": "등",
+      "note": "せなか",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870658,
+      "updated": 1795160870658
+    },
+    {
+      "id": "mwoofkr5cqunf51",
+      "word": "往復",
+      "meaning": "왕복",
+      "note": "おうふく",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870659,
+      "updated": 1795160870659
+    },
+    {
+      "id": "mwoofkr5ebobk52",
+      "word": "育つ",
+      "meaning": "자라다",
+      "note": "そだつ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870660,
+      "updated": 1795160870660
+    },
+    {
+      "id": "mwoofkr5ocby453",
+      "word": "持つ",
+      "meaning": "들다, 가지다",
+      "note": "もつ · 한 글자(持) 항목이라 持つ로 추정",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870661,
+      "updated": 1795160870661
+    },
+    {
+      "id": "mwoofkr5att8k54",
+      "word": "譲る",
+      "meaning": "양보하다",
+      "note": "ゆずる",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870662,
+      "updated": 1795160870662
+    },
+    {
+      "id": "mwoofkr5qu7hv55",
+      "word": "卒業",
+      "meaning": "졸업",
+      "note": "そつぎょう",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870663,
+      "updated": 1795160870663
+    },
+    {
+      "id": "mwoofkr5knemq56",
+      "word": "直後",
+      "meaning": "직후",
+      "note": "ちょくご",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870664,
+      "updated": 1795160870664
+    },
+    {
+      "id": "mwoofkr55d78w57",
+      "word": "出勤",
+      "meaning": "출근",
+      "note": "しゅっきん",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870665,
+      "updated": 1795160870665
+    },
+    {
+      "id": "mwoofkr5z84t958",
+      "word": "初め",
+      "meaning": "처음, 시작",
+      "note": "はじめ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870666,
+      "updated": 1795160870666
+    },
+    {
+      "id": "mwoofkr5atvek59",
+      "word": "最初",
+      "meaning": "처음, 맨 처음",
+      "note": "さいしょ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870667,
+      "updated": 1795160870667
+    },
+    {
+      "id": "mwoofkr5rnah660",
+      "word": "申",
+      "meaning": "말하다, 신청하다",
+      "note": "もうす · 한 글자(申) 항목, 申す/申し込み 등에 쓰이는 한자로 추정",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870668,
+      "updated": 1795160870668
+    },
+    {
+      "id": "mwoofkr5mgbwp61",
+      "word": "歓迎",
+      "meaning": "환영",
+      "note": "かんげい",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870669,
+      "updated": 1795160870669
+    },
+    {
+      "id": "mwoofkr5yu5qt62",
+      "word": "世話",
+      "meaning": "돌봄, 신세",
+      "note": "せわ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870670,
+      "updated": 1795160870670
+    },
+    {
+      "id": "mwoofkr5m28u163",
+      "word": "恋愛",
+      "meaning": "연애",
+      "note": "れんあい",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870671,
+      "updated": 1795160870671
+    },
+    {
+      "id": "mwoofkr5g5e3l64",
+      "word": "親しい",
+      "meaning": "친하다",
+      "note": "したしい",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870672,
+      "updated": 1795160870672
+    },
+    {
+      "id": "mwoofkr5h365e65",
+      "word": "関係",
+      "meaning": "관계",
+      "note": "かんけい",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870673,
+      "updated": 1795160870673
+    },
+    {
+      "id": "mwoofkr52ow1b66",
+      "word": "主に",
+      "meaning": "주로",
+      "note": "おもに",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870674,
+      "updated": 1795160870674
+    },
+    {
+      "id": "mwoofkr5j0iz667",
+      "word": "言葉",
+      "meaning": "말, 언어",
+      "note": "ことば",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870675,
+      "updated": 1795160870675
+    },
+    {
+      "id": "mwoofkr5y3dlb68",
+      "word": "嫉妬",
+      "meaning": "질투",
+      "note": "しっと",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870676,
+      "updated": 1795160870676
+    },
+    {
+      "id": "mwoofkr5jsz5d69",
+      "word": "由来",
+      "meaning": "유래",
+      "note": "ゆらい",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870677,
+      "updated": 1795160870677
+    },
+    {
+      "id": "mwoofkr5doaxd70",
+      "word": "形",
+      "meaning": "모양",
+      "note": "かたち · 한 글자(形) 항목, かたち로 추정(けい일 수도 있음)",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870678,
+      "updated": 1795160870678
+    },
+    {
+      "id": "mwoofkr5zqpk771",
+      "word": "似る",
+      "meaning": "닮다",
+      "note": "にる · 煮る(삶다)일 수도 있음",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870679,
+      "updated": 1795160870679
+    },
+    {
+      "id": "mwoofkr5svwnf72",
+      "word": "精算",
+      "meaning": "정산",
+      "note": "せいさん · 生産(생산), 清算(청산)일 수도 있음",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870680,
+      "updated": 1795160870680
+    },
+    {
+      "id": "mwoofkr5tnmq373",
+      "word": "勉強",
+      "meaning": "공부",
+      "note": "べんきょう",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870681,
+      "updated": 1795160870681
+    },
+    {
+      "id": "mwoofkr54qbld74",
+      "word": "参加",
+      "meaning": "참가",
+      "note": "さんか",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870682,
+      "updated": 1795160870682
+    },
+    {
+      "id": "mwoofkr5rs31h75",
+      "word": "素晴らしい",
+      "meaning": "훌륭하다",
+      "note": "すばらしい",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870683,
+      "updated": 1795160870683
+    },
+    {
+      "id": "mwoofkr5qhuy776",
+      "word": "業界",
+      "meaning": "업계",
+      "note": "ぎょうかい",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870684,
+      "updated": 1795160870684
+    },
+    {
+      "id": "mwoofkr59njg577",
+      "word": "伺う",
+      "meaning": "찾아뵙다, 여쭙다",
+      "note": "うかがう",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870685,
+      "updated": 1795160870685
+    },
+    {
+      "id": "mwoofkr5eas4678",
+      "word": "到着",
+      "meaning": "도착",
+      "note": "とうちゃく",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870686,
+      "updated": 1795160870686
+    },
+    {
+      "id": "mwoofkr5ybqj179",
+      "word": "姿勢",
+      "meaning": "자세",
+      "note": "しせい · 市政, 施政 등 동음이의어 가능",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870687,
+      "updated": 1795160870687
+    },
+    {
+      "id": "mwoofkr547n4q80",
+      "word": "積極的",
+      "meaning": "적극적",
+      "note": "せっきょくてき",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870688,
+      "updated": 1795160870688
+    },
+    {
+      "id": "mwoofkr5ufk8q81",
+      "word": "空港",
+      "meaning": "공항",
+      "note": "くうこう",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870689,
+      "updated": 1795160870689
+    },
+    {
+      "id": "mwoofkr56h74t82",
+      "word": "支払い",
+      "meaning": "지불",
+      "note": "しはらい",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870690,
+      "updated": 1795160870690
+    },
+    {
+      "id": "mwoofkr5xehv483",
+      "word": "気持ち",
+      "meaning": "기분, 마음",
+      "note": "きもち",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870691,
+      "updated": 1795160870691
+    },
+    {
+      "id": "mwoofkr5f502c84",
+      "word": "姿",
+      "meaning": "모습",
+      "note": "すがた",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870692,
+      "updated": 1795160870692
+    },
+    {
+      "id": "mwoofkr5hg5w385",
+      "word": "伝える",
+      "meaning": "전하다",
+      "note": "つたえる",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870693,
+      "updated": 1795160870693
+    },
+    {
+      "id": "mwoofkr5ibkn686",
+      "word": "無事",
+      "meaning": "무사함",
+      "note": "ぶじ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870694,
+      "updated": 1795160870694
+    },
+    {
+      "id": "mwoofkr5iezhu87",
+      "word": "状況",
+      "meaning": "상황",
+      "note": "じょうきょう",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870695,
+      "updated": 1795160870695
+    },
+    {
+      "id": "mwoofkr5mpaiw88",
+      "word": "分かる",
+      "meaning": "알다, 이해하다",
+      "note": "わかる",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870696,
+      "updated": 1795160870696
+    },
+    {
+      "id": "mwoofkr5ve6uh89",
+      "word": "理由",
+      "meaning": "이유",
+      "note": "りゆう",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870697,
+      "updated": 1795160870697
+    },
+    {
+      "id": "mwoofkr5ypapc90",
+      "word": "当時",
+      "meaning": "당시",
+      "note": "とうじ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870698,
+      "updated": 1795160870698
+    },
+    {
+      "id": "mwoofkr5t6jfg91",
+      "word": "驚き",
+      "meaning": "놀람",
+      "note": "おどろき",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870699,
+      "updated": 1795160870699
+    },
+    {
+      "id": "mwoofkr5n9hcf92",
+      "word": "体験",
+      "meaning": "체험",
+      "note": "たいけん",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870700,
+      "updated": 1795160870700
+    },
+    {
+      "id": "mwoofkr59s9tt93",
+      "word": "際",
+      "meaning": "때, 경우",
+      "note": "さい · 差異(차이) 등 동음이의어 가능",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870701,
+      "updated": 1795160870701
+    },
+    {
+      "id": "mwoofkr5tbfsh94",
+      "word": "学習",
+      "meaning": "학습",
+      "note": "がくしゅう",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870702,
+      "updated": 1795160870702
+    },
+    {
+      "id": "mwoofkr52078595",
+      "word": "審査",
+      "meaning": "심사",
+      "note": "しんさ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870703,
+      "updated": 1795160870703
+    },
+    {
+      "id": "mwoofkr5mw3cd96",
+      "word": "焦る",
+      "meaning": "초조해하다",
+      "note": "あせる",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870704,
+      "updated": 1795160870704
+    },
+    {
+      "id": "mwoofkr5ljtru97",
+      "word": "成果",
+      "meaning": "성과",
+      "note": "せいか · 聖火(성화), 製菓(제과) 등 동음이의어 가능",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870705,
+      "updated": 1795160870705
+    },
+    {
+      "id": "mwoofkr5aamzv98",
+      "word": "日頃",
+      "meaning": "평소",
+      "note": "ひごろ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870706,
+      "updated": 1795160870706
+    },
+    {
+      "id": "mwoofkr5pept499",
+      "word": "続ける",
+      "meaning": "계속하다",
+      "note": "つづける",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870707,
+      "updated": 1795160870707
+    },
+    {
+      "id": "mwoofkr5xopp1100",
+      "word": "終始",
+      "meaning": "처음부터 끝까지, 시종",
+      "note": "しゅうし · 収支(수지), 修士(석사) 등 동음이의어 가능",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870708,
+      "updated": 1795160870708
+    },
+    {
+      "id": "mwoofkr5133a2101",
+      "word": "皆",
+      "meaning": "모두",
+      "note": "みんな",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870709,
+      "updated": 1795160870709
+    },
+    {
+      "id": "mwoofkr57ixm9102",
+      "word": "共感",
+      "meaning": "공감",
+      "note": "きょうかん",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870710,
+      "updated": 1795160870710
+    },
+    {
+      "id": "mwoofkr5zv5cr103",
+      "word": "選ぶ",
+      "meaning": "고르다",
+      "note": "えらぶ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870711,
+      "updated": 1795160870711
+    },
+    {
+      "id": "mwoofkr5lrtuq104",
+      "word": "綺麗",
+      "meaning": "예쁘다, 깨끗하다",
+      "note": "きれい · 보통 가나로 씀",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870712,
+      "updated": 1795160870712
+    },
+    {
+      "id": "mwoofkr57l2c8105",
+      "word": "飛行機",
+      "meaning": "비행기",
+      "note": "ひこうき",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870713,
+      "updated": 1795160870713
+    },
+    {
+      "id": "mwoofkr5nfqm0106",
+      "word": "承知",
+      "meaning": "알겠음, 승낙",
+      "note": "しょうち",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870714,
+      "updated": 1795160870714
+    },
+    {
+      "id": "mwoofkr5tfoq9107",
+      "word": "確認",
+      "meaning": "확인",
+      "note": "かくにん",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870715,
+      "updated": 1795160870715
+    },
+    {
+      "id": "mwoofkr5m3tnb108",
+      "word": "表現",
+      "meaning": "표현",
+      "note": "ひょうげん",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870716,
+      "updated": 1795160870716
+    },
+    {
+      "id": "mwoofkr576dig109",
+      "word": "語彙",
+      "meaning": "어휘",
+      "note": "ごい",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870717,
+      "updated": 1795160870717
+    },
+    {
+      "id": "mwoofkr5o2rey110",
+      "word": "興味津々",
+      "meaning": "흥미진진",
+      "note": "きょうみしんしん",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870718,
+      "updated": 1795160870718
+    },
+    {
+      "id": "mwoofkr5fvshk111",
+      "word": "興味",
+      "meaning": "흥미",
+      "note": "きょうみ",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870719,
+      "updated": 1795160870719
+    },
+    {
+      "id": "mwoofkr5s3kww112",
+      "word": "定番",
+      "meaning": "정석, 스테디셀러",
+      "note": "ていばん",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870720,
+      "updated": 1795160870720
+    },
+    {
+      "id": "mwoofkr50nwlf113",
+      "word": "暖かい",
+      "meaning": "따뜻하다(날씨, 기온)",
+      "note": "あたたかい · 温かい(음식, 마음 등)로도 씀",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870721,
+      "updated": 1795160870721
+    },
+    {
+      "id": "mwoofkr510hz9114",
+      "word": "咲く",
+      "meaning": "(꽃이) 피다",
+      "note": "さく",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870722,
+      "updated": 1795160870722
+    },
+    {
+      "id": "mwoofkr5jwmum115",
+      "word": "時期",
+      "meaning": "시기",
+      "note": "じき · 時機, 直 등 동음이의어 가능",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870723,
+      "updated": 1795160870723
+    },
+    {
+      "id": "mwoofkr549q7h116",
+      "word": "違い",
+      "meaning": "차이",
+      "note": "ちがい",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870724,
+      "updated": 1795160870724
+    },
+    {
+      "id": "mwoofkr538lhp117",
+      "word": "風景",
+      "meaning": "풍경",
+      "note": "ふうけい",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870725,
+      "updated": 1795160870725
+    },
+    {
+      "id": "mwoofkr5vy14a118",
+      "word": "様",
+      "meaning": "~님, 모양",
+      "note": "さま",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870726,
+      "updated": 1795160870726
+    },
+    {
+      "id": "mwoofkr5omkqq119",
+      "word": "桜",
+      "meaning": "벚꽃",
+      "note": "さくら",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870727,
+      "updated": 1795160870727
+    },
+    {
+      "id": "mwoofkr50sq4t120",
+      "word": "代わる",
+      "meaning": "대신하다",
+      "note": "かわる · 変わる(변하다), 替わる(교체되다)와 구별",
+      "example": "",
+      "tags": [
+        "일상단어"
+      ],
+      "created": 1795160870728,
+      "updated": 1795160870728
     }
   ],
   "stats": {
